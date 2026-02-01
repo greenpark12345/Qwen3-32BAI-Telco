@@ -1,0 +1,11 @@
+# 5G Network Problem Diagnosis Solver Dependencies
+# Dependencies list
+
+# HTTP Request Library
+requests>=2.25.0
+
+# Optional: Better progress display
+# tqdm>=4.60.0
+
+# Optional: Better logging
+# loguru>=0.5.0

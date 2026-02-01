@@ -1,0 +1,863 @@
+{"id": "ID_7W4Q1615FZ", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "3", "needs_ai": false}
+{"id": "ID_ZDOP7324ZF", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "M5", "needs_ai": false}
+{"id": "ID_7NWKCWAHP0", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "P6", "needs_ai": false}
+{"id": "ID_477BBRFS8A", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "4", "needs_ai": false}
+{"id": "ID_ZPS9DOT2XB", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "6", "needs_ai": false}
+{"id": "ID_V5XK9NTVM5", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "3", "needs_ai": false}
+{"id": "ID_2N45YPG9OI", "type": "standard", "rule": "Rule 5: avg_rb=142.3<170 => C8(Low RB)", "answer": "S1", "needs_ai": false}
+{"id": "ID_MK8ASJN031", "type": "standard", "rule": "Rule 5: avg_rb=144.5<170 => C8(Low RB)", "answer": "Q3", "needs_ai": false}
+{"id": "ID_DZAIIZJVCS", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "R2", "needs_ai": false}
+{"id": "ID_A0GZDDFX1S", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "I3", "needs_ai": false}
+{"id": "ID_L8HFIOSB0B", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "2", "needs_ai": false}
+{"id": "ID_BYJLT0XGS0", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "1", "needs_ai": false}
+{"id": "ID_OYHOBRM8CJ", "type": "standard", "rule": "Rule 10: min_tilt=7.0<10 AND min_rsrp=-88.0>-89 => C3", "answer": "M1", "needs_ai": false}
+{"id": "ID_80SXZUYTZM", "type": "standard", "rule": "Rule 5: avg_rb=166.6<170 => C8(Low RB)", "answer": "D3", "needs_ai": false}
+{"id": "ID_8H8W8HMS2H", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "1", "needs_ai": false}
+{"id": "ID_T2JCI2FZAB", "type": "standard", "rule": "Rule 10: min_tilt=7.0<10 AND min_rsrp=-87.9>-89 => C3", "answer": "Q7", "needs_ai": false}
+{"id": "ID_9BH9YETW2N", "type": "standard", "rule": "Rule 4: max_speed=65.0>40 => C7(High Speed)", "answer": "V5", "needs_ai": false}
+{"id": "ID_6IEQRSENON", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "L1", "needs_ai": false}
+{"id": "ID_H0JY2R1TWZ", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "W7", "needs_ai": false}
+{"id": "ID_52LG3VJM5W", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "D1", "needs_ai": false}
+{"id": "ID_UKQL04FDHF", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "6", "needs_ai": false}
+{"id": "ID_9DQEP8FLNR", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "2", "needs_ai": false}
+{"id": "ID_8W8JBVLERY", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "5", "needs_ai": false}
+{"id": "ID_CMO4MXBFD2", "type": "nonstandard_telecom", "rule": "Rule 1: min_rsrp=-107.9<-100 => Weak Coverage", "answer": "F", "needs_ai": false}
+{"id": "ID_PKNVYYMN9M", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "1", "needs_ai": false}
+{"id": "ID_V7RI2M1LAY", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "8", "needs_ai": false}
+{"id": "ID_2GP5WQ9853", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "H7", "needs_ai": false}
+{"id": "ID_VJ2UXQJ7OX", "type": "standard", "rule": "Rule 5: avg_rb=164.1<170 => C8(Low RB)", "answer": "J4", "needs_ai": false}
+{"id": "ID_D2QZ07QDO9", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "7", "needs_ai": false}
+{"id": "ID_2FT3OI6DBP", "type": "standard", "rule": "Rule 4: max_speed=69.0>40 => C7(High Speed)", "answer": "8", "needs_ai": false}
+{"id": "ID_49Z6DH6YVP", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=9.7>8 Exclude Transport Anomaly", "answer": "I", "needs_ai": true}
+{"id": "ID_6LQ8NTJDPN", "type": "standard", "rule": "Rule 4: max_speed=63.0>40 => C7(High Speed)", "answer": "R5", "needs_ai": false}
+{"id": "ID_S80EEBP5M3", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "6", "needs_ai": false}
+{"id": "ID_J91CNHP7J4", "type": "standard", "rule": "Rule 4: max_speed=67.0>40 => C7(High Speed)", "answer": "P7", "needs_ai": false}
+{"id": "ID_SU21QGFMME", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "3", "needs_ai": false}
+{"id": "ID_EXBO80ASZX", "type": "standard", "rule": "Rule 4: max_speed=68.0>40 => C7(High Speed)", "answer": "T4", "needs_ai": false}
+{"id": "ID_JQP6JO7RM3", "type": "standard", "rule": "Rule 4: max_speed=65.0>40 => C7(High Speed)", "answer": "4", "needs_ai": false}
+{"id": "ID_R9V0RWCTP6", "type": "standard", "rule": "Rule 5: avg_rb=164.2<170 => C8(Low RB)", "answer": "X6", "needs_ai": false}
+{"id": "ID_N8GZ4AZA72", "type": "standard", "rule": "Rule 5: avg_rb=151.5<170 => C8(Low RB)", "answer": "I4", "needs_ai": false}
+{"id": "ID_GLOXM0DL65", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, sinr=9.3>8 Exclude Transport Anomaly", "answer": "G", "needs_ai": true}
+{"id": "ID_TKRCWTVKTV", "type": "standard", "rule": "Rule 11: min_rsrp=-91.4<-90 => C1(Weak Coverage)", "answer": "B3", "needs_ai": false}
+{"id": "ID_OXOUBX9GWT", "type": "standard", "rule": "Rule 5: avg_rb=168.1<170 => C8(Low RB)", "answer": "B1", "needs_ai": false}
+{"id": "ID_FBLARXN8EP", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "M7", "needs_ai": false}
+{"id": "ID_D57ULG1ZBZ", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "O2", "needs_ai": false}
+{"id": "ID_TYTKI7UTME", "type": "standard", "rule": "Rule 4: max_speed=66.0>40 => C7(High Speed)", "answer": "X6", "needs_ai": false}
+{"id": "ID_TQOG8S8WSP", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "D5", "needs_ai": false}
+{"id": "ID_3C1S9NWGCZ", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "C6", "needs_ai": false}
+{"id": "ID_NKYBV4EHK6", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "7", "needs_ai": false}
+{"id": "ID_BIH9V0MI87", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "L6", "needs_ai": false}
+{"id": "ID_X9IHGBMQ0E", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=8.0>8 Exclude Transport Anomaly", "answer": "A", "needs_ai": true}
+{"id": "ID_PLE6ZHPM4I", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "7", "needs_ai": false}
+{"id": "ID_TM4TU1PQUH", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "R7", "needs_ai": false}
+{"id": "ID_K4E1FH1KY3", "type": "standard", "rule": "Rule 5: avg_rb=145.3<170 => C8(Low RB)", "answer": "7", "needs_ai": false}
+{"id": "ID_3BIPC8DG8J", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "U6", "needs_ai": false}
+{"id": "ID_2FXGEL5WMX", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "1", "needs_ai": false}
+{"id": "ID_UGPGNZPG4S", "type": "standard", "rule": "Rule 4: max_speed=74.0>40 => C7(High Speed)", "answer": "6", "needs_ai": false}
+{"id": "ID_P0A2749QSK", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "X7", "needs_ai": false}
+{"id": "ID_KVL1E2VQJJ", "type": "standard", "rule": "Rule 11: min_rsrp=-92.7<-90 => C1(Weak Coverage)", "answer": "X3", "needs_ai": false}
+{"id": "ID_DMKSEAW0NP", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "K7", "needs_ai": false}
+{"id": "ID_PQDFDSMYIE", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "E1", "needs_ai": false}
+{"id": "ID_S7A0P58IQ8", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "3", "needs_ai": false}
+{"id": "ID_8OF6D2FUN4", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "8", "needs_ai": false}
+{"id": "ID_WAVP08F15I", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "R5", "needs_ai": false}
+{"id": "ID_ROVUA0TH0F", "type": "nonstandard_telecom", "rule": "Rule 2: handovers=3>=3 => Threshold Too Low", "answer": "E", "needs_ai": false}
+{"id": "ID_1SCY8H8XSH", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "D5", "needs_ai": false}
+{"id": "ID_NLWKWU000B", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing", "answer": "A", "needs_ai": true}
+{"id": "ID_DWL0R62DXY", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, sinr=8.5>8 Exclude Transport Anomaly", "answer": "D", "needs_ai": true}
+{"id": "ID_YBQVTWDDZI", "type": "nonstandard_telecom", "rule": "Rule 3: max_cce=0.67>0.4 => PDCCH Congestion", "answer": "D", "needs_ai": false}
+{"id": "ID_D1KWS2E1BJ", "type": "standard", "rule": "Rule 11: min_rsrp=-90.6<-90 => C1(Weak Coverage)", "answer": "4", "needs_ai": false}
+{"id": "ID_7MNRLKCAYV", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "H6", "needs_ai": false}
+{"id": "ID_YM5UUV2957", "type": "standard", "rule": "Rule 5: avg_rb=161.7<170 => C8(Low RB)", "answer": "5", "needs_ai": false}
+{"id": "ID_4GXC5C1WXG", "type": "standard", "rule": "Rule 5: avg_rb=148.9<170 => C8(Low RB)", "answer": "Z4", "needs_ai": false}
+{"id": "ID_0WQU16SW57", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "C8", "needs_ai": false}
+{"id": "ID_1H6X2ZP09B", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "8", "needs_ai": false}
+{"id": "ID_JN0PHLZ34N", "type": "standard", "rule": "Rule 4: max_speed=67.0>40 => C7(High Speed)", "answer": "3", "needs_ai": false}
+{"id": "ID_ANVS89YFW5", "type": "standard", "rule": "Rule 11: min_rsrp=-90.3<-90 => C1(Weak Coverage)", "answer": "K6", "needs_ai": false}
+{"id": "ID_O568MLLLPY", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "2", "needs_ai": false}
+{"id": "ID_69UBH2KP66", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "8", "needs_ai": false}
+{"id": "ID_9SYEJQHJG9", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, sinr=8.3>8 Exclude Transport Anomaly", "answer": "F", "needs_ai": true}
+{"id": "ID_UPOWYAKODI", "type": "standard", "rule": "Rule 4: max_speed=66.0>40 => C7(High Speed)", "answer": "M7", "needs_ai": false}
+{"id": "ID_MZD3ZN105Q", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "2", "needs_ai": false}
+{"id": "ID_KVE58KQKCH", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "8", "needs_ai": false}
+{"id": "ID_ZEWAXP3WKW", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "Z2", "needs_ai": false}
+{"id": "ID_9EHLCDPS84", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "6", "needs_ai": false}
+{"id": "ID_CFHSWCBUQW", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "Y7", "needs_ai": false}
+{"id": "ID_M0OXHHNF46", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "H5", "needs_ai": false}
+{"id": "ID_A5L0LWE8TR", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=9.1>8 Exclude Transport Anomaly", "answer": "I", "needs_ai": true}
+{"id": "ID_I0JEVLXFBB", "type": "standard", "rule": "Rule 5: avg_rb=164.0<170 => C8(Low RB)", "answer": "R2", "needs_ai": false}
+{"id": "ID_IOELRF0Y5C", "type": "standard", "rule": "Rule 5: avg_rb=162.3<170 => C8(Low RB)", "answer": "2", "needs_ai": false}
+{"id": "ID_LOU2WL8865", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "G5", "needs_ai": false}
+{"id": "ID_DNSD31A0M7", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "F3", "needs_ai": false}
+{"id": "ID_POFZFPT75E", "type": "standard", "rule": "Rule 5: avg_rb=148.9<170 => C8(Low RB)", "answer": "5", "needs_ai": false}
+{"id": "ID_0V6VR4G6GN", "type": "standard", "rule": "Rule 11: min_rsrp=-92.7<-90 => C1(Weak Coverage)", "answer": "Q2", "needs_ai": false}
+{"id": "ID_EE8JDO832J", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "8", "needs_ai": false}
+{"id": "ID_YDBPL3AK3O", "type": "standard", "rule": "Rule 11: min_rsrp=-90.6<-90 => C1(Weak Coverage)", "answer": "V5", "needs_ai": false}
+{"id": "ID_KTBANQX946", "type": "standard", "rule": "Rule 11: min_rsrp=-93.9<-90 => C1(Weak Coverage)", "answer": "4", "needs_ai": false}
+{"id": "ID_N8ML2JFDZQ", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing", "answer": "F", "needs_ai": true}
+{"id": "ID_HXLZD2NTWG", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "E8", "needs_ai": false}
+{"id": "ID_4JI11ZOPU9", "type": "standard", "rule": "Rule 5: avg_rb=151.0<170 => C8(Low RB)", "answer": "U8", "needs_ai": false}
+{"id": "ID_P7EKHKQZO8", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "S7", "needs_ai": false}
+{"id": "ID_YM7K9QZ2B6", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "2", "needs_ai": false}
+{"id": "ID_81VZREH3UM", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "M2", "needs_ai": false}
+{"id": "ID_OAER64GU6M", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "K8", "needs_ai": false}
+{"id": "ID_DV2R58W124", "type": "standard", "rule": "Rule 5: avg_rb=145.3<170 => C8(Low RB)", "answer": "7", "needs_ai": false}
+{"id": "ID_E4WVOXER3N", "type": "standard", "rule": "Rule 11: min_rsrp=-91.4<-90 => C1(Weak Coverage)", "answer": "V2", "needs_ai": false}
+{"id": "ID_76RNGIASLT", "type": "standard", "rule": "Rule 4: max_speed=74.0>40 => C7(High Speed)", "answer": "E6", "needs_ai": false}
+{"id": "ID_0BSGHSUV1K", "type": "standard", "rule": "Rule 5: avg_rb=167.0<170 => C8(Low RB)", "answer": "4", "needs_ai": false}
+{"id": "ID_DTWY6GFKAR", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "R8", "needs_ai": false}
+{"id": "ID_XQC3UL2Y02", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "I5", "needs_ai": false}
+{"id": "ID_FY9HD3YTTH", "type": "standard", "rule": "Rule 9: min_tilt=3.0<6 => C3(Neighbor Better)", "answer": "F5", "needs_ai": false}
+{"id": "ID_E2CDP1BRBE", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing", "answer": "G", "needs_ai": true}
+{"id": "ID_2HTAGXP0YA", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "1", "needs_ai": false}
+{"id": "ID_5CI2RMP0UH", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "8", "needs_ai": false}
+{"id": "ID_X8U6YBZWIU", "type": "standard", "rule": "Rule 5: avg_rb=164.2<170 => C8(Low RB)", "answer": "U4", "needs_ai": false}
+{"id": "ID_5E6LFOZMFK", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "X2", "needs_ai": false}
+{"id": "ID_1QFQWXQXGG", "type": "standard", "rule": "Rule 5: avg_rb=142.8<170 => C8(Low RB)", "answer": "X4", "needs_ai": false}
+{"id": "ID_DW1JN9ZNR4", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "P3", "needs_ai": false}
+{"id": "ID_EODSE6W7CM", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "Q4", "needs_ai": false}
+{"id": "ID_YBODNSGL35", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "Q3", "needs_ai": false}
+{"id": "ID_6UCDYEYOWR", "type": "standard", "rule": "Rule 10: min_tilt=8.0<10 AND min_rsrp=-88.6>-89 => C3", "answer": "J1", "needs_ai": false}
+{"id": "ID_QIHRH4MEG0", "type": "nonstandard_telecom", "rule": "Rule 3: max_cce=0.64>0.4 => PDCCH Congestion", "answer": "G", "needs_ai": false}
+{"id": "ID_8WMNGEJZYX", "type": "standard", "rule": "Rule 4: max_speed=74.0>40 => C7(High Speed)", "answer": "1", "needs_ai": false}
+{"id": "ID_QOMSTONONR", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "F7", "needs_ai": false}
+{"id": "ID_B746MUKIKN", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "A7", "needs_ai": false}
+{"id": "ID_KVN5UYHXO0", "type": "standard", "rule": "Rule 5: avg_rb=154.0<170 => C8(Low RB)", "answer": "M5", "needs_ai": false}
+{"id": "ID_S09X3J37RK", "type": "standard", "rule": "Rule 11: min_rsrp=-92.6<-90 => C1(Weak Coverage)", "answer": "7", "needs_ai": false}
+{"id": "ID_3L9MCWW1QS", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "1", "needs_ai": false}
+{"id": "ID_NS303QG4N4", "type": "standard", "rule": "Rule 4: max_speed=74.0>40 => C7(High Speed)", "answer": "V8", "needs_ai": false}
+{"id": "ID_5DW7KGKGRG", "type": "standard", "rule": "Rule 11: min_rsrp=-90.3<-90 => C1(Weak Coverage)", "answer": "2", "needs_ai": false}
+{"id": "ID_XST6SP3Y14", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "1", "needs_ai": false}
+{"id": "ID_LHB5CED0R5", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "5", "needs_ai": false}
+{"id": "ID_9BL7XCSQTI", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "1", "needs_ai": false}
+{"id": "ID_C064N9H5VD", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "3", "needs_ai": false}
+{"id": "ID_8P1C1ILSZX", "type": "standard", "rule": "Rule 5: avg_rb=163.4<170 => C8(Low RB)", "answer": "1", "needs_ai": false}
+{"id": "ID_436HLG9903", "type": "standard", "rule": "Rule 5: avg_rb=142.3<170 => C8(Low RB)", "answer": "6", "needs_ai": false}
+{"id": "ID_D0NDNUP2JK", "type": "standard", "rule": "Rule 11: min_rsrp=-93.2<-90 => C1(Weak Coverage)", "answer": "6", "needs_ai": false}
+{"id": "ID_LOQ8FLM5WV", "type": "nonstandard_telecom", "rule": "Rule 2: handovers=3>=3 => Threshold Too Low", "answer": "B", "needs_ai": false}
+{"id": "ID_D31MNLAPDT", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=9.3>8 Exclude Transport Anomaly", "answer": "I", "needs_ai": true}
+{"id": "ID_6PGC662YVQ", "type": "standard", "rule": "Rule 11: min_rsrp=-91.0<-90 => C1(Weak Coverage)", "answer": "Q4", "needs_ai": false}
+{"id": "ID_UUX8K15DVU", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing", "answer": "G", "needs_ai": true}
+{"id": "ID_7UPAB5FJX5", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "F1", "needs_ai": false}
+{"id": "ID_DZ0R9BARKZ", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "8", "needs_ai": false}
+{"id": "ID_S83AWH38C0", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "2", "needs_ai": false}
+{"id": "ID_GH5DQLVA1W", "type": "standard", "rule": "Rule 11: min_rsrp=-91.6<-90 => C1(Weak Coverage)", "answer": "5", "needs_ai": false}
+{"id": "ID_GGOMZOG82I", "type": "standard", "rule": "Rule 4: max_speed=74.0>40 => C7(High Speed)", "answer": "4", "needs_ai": false}
+{"id": "ID_QVDQBCSWUU", "type": "standard", "rule": "Rule 7: max_tilt=11.0<12 => C3(Neighbor Better)", "answer": "J5", "needs_ai": false}
+{"id": "ID_VXT19VS8PM", "type": "standard", "rule": "Rule 7: max_tilt=7.0<12 => C3(Neighbor Better)", "answer": "3", "needs_ai": false}
+{"id": "ID_0POI1PDWLC", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "5", "needs_ai": false}
+{"id": "ID_F8LD2HK2LZ", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "4", "needs_ai": false}
+{"id": "ID_H6U83MNECQ", "type": "standard", "rule": "Rule 5: avg_rb=151.5<170 => C8(Low RB)", "answer": "U2", "needs_ai": false}
+{"id": "ID_ZYREVU7OV2", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "4", "needs_ai": false}
+{"id": "ID_0Z2YFNIS73", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "R6", "needs_ai": false}
+{"id": "ID_STC5BLMJP5", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "4", "needs_ai": false}
+{"id": "ID_Z0DIX5M9GA", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "U8", "needs_ai": false}
+{"id": "ID_24O5GUI01N", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "Y5", "needs_ai": false}
+{"id": "ID_K18XAKRDJX", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "A2", "needs_ai": false}
+{"id": "ID_ERAI135N3F", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "5", "needs_ai": false}
+{"id": "ID_0EFMXJ9HNE", "type": "standard", "rule": "Rule 11: min_rsrp=-91.1<-90 => C1(Weak Coverage)", "answer": "2", "needs_ai": false}
+{"id": "ID_QQA6BCLDF5", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "C3", "needs_ai": false}
+{"id": "ID_WR3MG9B5F4", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "3", "needs_ai": false}
+{"id": "ID_PJWSR7WHOV", "type": "standard", "rule": "Rule 4: max_speed=69.0>40 => C7(High Speed)", "answer": "6", "needs_ai": false}
+{"id": "ID_K8PW0LNOY1", "type": "standard", "rule": "Rule 11: min_rsrp=-92.7<-90 => C1(Weak Coverage)", "answer": "5", "needs_ai": false}
+{"id": "ID_0B8V1YMQNY", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "6", "needs_ai": false}
+{"id": "ID_E3YZ6ZI9AD", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "5", "needs_ai": false}
+{"id": "ID_3OAV0CU07N", "type": "standard", "rule": "Rule 11: min_rsrp=-92.7<-90 => C1(Weak Coverage)", "answer": "W4", "needs_ai": false}
+{"id": "ID_B04D9RLT7E", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "U8", "needs_ai": false}
+{"id": "ID_AX6YF3XNV2", "type": "standard", "rule": "Rule 4: max_speed=75.0>40 => C7(High Speed)", "answer": "W5", "needs_ai": false}
+{"id": "ID_VODQFTBXIK", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "5", "needs_ai": false}
+{"id": "ID_HN2ESN5LV7", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing", "answer": "G", "needs_ai": true}
+{"id": "ID_FW01E2X0ZA", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "Z4", "needs_ai": false}
+{"id": "ID_GBAFUTI9DZ", "type": "standard", "rule": "Rule 5: avg_rb=142.9<170 => C8(Low RB)", "answer": "5", "needs_ai": false}
+{"id": "ID_9PUO8UAKPM", "type": "standard", "rule": "Rule 8: total_tilt=17.0<19 => C3(Neighbor Better)", "answer": "O4", "needs_ai": false}
+{"id": "ID_LEJ31J801X", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "8", "needs_ai": false}
+{"id": "ID_SWNB0TVXDH", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "M7", "needs_ai": false}
+{"id": "ID_KGKTWK5X44", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=8.8>8 Exclude Transport Anomaly", "answer": "C", "needs_ai": true}
+{"id": "ID_AMT2SZJY3M", "type": "standard", "rule": "Rule 4: max_speed=65.0>40 => C7(High Speed)", "answer": "2", "needs_ai": false}
+{"id": "ID_KNC84QD9WZ", "type": "standard", "rule": "Rule 7: max_tilt=8.0<12 => C3(Neighbor Better)", "answer": "R5", "needs_ai": false}
+{"id": "ID_FFJJ4V6GT5", "type": "standard", "rule": "Rule 5: avg_rb=166.9<170 => C8(Low RB)", "answer": "E1", "needs_ai": false}
+{"id": "ID_YAMZFU3EY0", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "H8", "needs_ai": false}
+{"id": "ID_9I3HYE96Q1", "type": "standard", "rule": "Rule 4: max_speed=76.0>40 => C7(High Speed)", "answer": "K1", "needs_ai": false}
+{"id": "ID_FWTK3WKQH9", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "5", "needs_ai": false}
+{"id": "ID_QZF93TNWU2", "type": "standard", "rule": "Rule 4: max_speed=66.0>40 => C7(High Speed)", "answer": "I5", "needs_ai": false}
+{"id": "ID_1XC1X5UF65", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "E4", "needs_ai": false}
+{"id": "ID_G58ET0KB6U", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "D4", "needs_ai": false}
+{"id": "ID_PQPU74MQQ4", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "4", "needs_ai": false}
+{"id": "ID_H9MY2HZPZI", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "2", "needs_ai": false}
+{"id": "ID_OQ0291L5V4", "type": "standard", "rule": "Rule 12: max_tilt=46.0>29 => C1(Weak Coverage)", "answer": "4", "needs_ai": false}
+{"id": "ID_8ZZNHA4DET", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "Z8", "needs_ai": false}
+{"id": "ID_MDLL3IIB98", "type": "standard", "rule": "Rule 5: avg_rb=163.1<170 => C8(Low RB)", "answer": "F4", "needs_ai": false}
+{"id": "ID_914DQFWW5C", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "P8", "needs_ai": false}
+{"id": "ID_S61Y0Y93VZ", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "5", "needs_ai": false}
+{"id": "ID_GHT998HB35", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "2", "needs_ai": false}
+{"id": "ID_C0GTHSVFUR", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "J1", "needs_ai": false}
+{"id": "ID_4B5RAX7XV5", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "1", "needs_ai": false}
+{"id": "ID_H39YJ4CJ5Y", "type": "standard", "rule": "Rule 11: min_rsrp=-92.8<-90 => C1(Weak Coverage)", "answer": "1", "needs_ai": false}
+{"id": "ID_7MPUSJCBE1", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "W1", "needs_ai": false}
+{"id": "ID_MMX4XEFVXO", "type": "standard", "rule": "Rule 15: C1/C3 Boundary (Lean C1)", "answer": "1", "needs_ai": false}
+{"id": "ID_9LCYMLO119", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "X2", "needs_ai": false}
+{"id": "ID_Z1B42XR16F", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, sinr=8.9>8 Exclude Transport Anomaly", "answer": "G", "needs_ai": true}
+{"id": "ID_7QY1F8G28N", "type": "standard", "rule": "Rule 4: max_speed=62.0>40 => C7(High Speed)", "answer": "3", "needs_ai": false}
+{"id": "ID_M2HBH6HXS6", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "2", "needs_ai": false}
+{"id": "ID_QULFPNE5RF", "type": "standard", "rule": "Rule 5: avg_rb=145.5<170 => C8(Low RB)", "answer": "Q2", "needs_ai": false}
+{"id": "ID_F1TG29V3TY", "type": "standard", "rule": "Rule 12: max_tilt=32.0>29 => C1(Weak Coverage)", "answer": "A6", "needs_ai": false}
+{"id": "ID_V9XI57YSC3", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "1", "needs_ai": false}
+{"id": "ID_R5081J9Y9Y", "type": "standard", "rule": "Rule 4: max_speed=71.0>40 => C7(High Speed)", "answer": "T2", "needs_ai": false}
+{"id": "ID_43CDS9NV4N", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "7", "needs_ai": false}
+{"id": "ID_YE3T7GCV86", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "3", "needs_ai": false}
+{"id": "ID_A5B354WVPJ", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "I4", "needs_ai": false}
+{"id": "ID_374USFVD5M", "type": "nonstandard_telecom", "rule": "Rule 2: handovers=3>=3 => Threshold Too Low", "answer": "I", "needs_ai": false}
+{"id": "ID_QF86TWC47G", "type": "standard", "rule": "Rule 5: avg_rb=162.9<170 => C8(Low RB)", "answer": "3", "needs_ai": false}
+{"id": "ID_YE4AXHMEOY", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "F7", "needs_ai": false}
+{"id": "ID_9I4HF3BCZ3", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=12.8>12 Exclude Overlap, sinr=12.8>8 Exclude Transport Anomaly", "answer": "F", "needs_ai": true}
+{"id": "ID_PG300SM9BI", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=11.5>8 Exclude Transport Anomaly", "answer": "C", "needs_ai": true}
+{"id": "ID_E7G0DXNAGO", "type": "standard", "rule": "Rule 4: max_speed=75.0>40 => C7(High Speed)", "answer": "R7", "needs_ai": false}
+{"id": "ID_OZM1POX1PC", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "6", "needs_ai": false}
+{"id": "ID_G69KZG50N8", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "4", "needs_ai": false}
+{"id": "ID_2MWTHQZKAN", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "6", "needs_ai": false}
+{"id": "ID_0VZIFIRPY6", "type": "standard", "rule": "Rule 11: min_rsrp=-91.7<-90 => C1(Weak Coverage)", "answer": "2", "needs_ai": false}
+{"id": "ID_1ZW5A31XTG", "type": "standard", "rule": "Rule 4: max_speed=67.0>40 => C7(High Speed)", "answer": "Q8", "needs_ai": false}
+{"id": "ID_JTCCOUOQ4N", "type": "standard", "rule": "Rule 11: min_rsrp=-94.2<-90 => C1(Weak Coverage)", "answer": "2", "needs_ai": false}
+{"id": "ID_4VRXW3B50C", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "Q8", "needs_ai": false}
+{"id": "ID_ARKY8ZVCLN", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "G1", "needs_ai": false}
+{"id": "ID_JAMECOU5TC", "type": "standard", "rule": "Rule 11: min_rsrp=-93.6<-90 => C1(Weak Coverage)", "answer": "2", "needs_ai": false}
+{"id": "ID_GNCOOXQZM3", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "6", "needs_ai": false}
+{"id": "ID_E7UE4R1HE4", "type": "standard", "rule": "Rule 11: min_rsrp=-94.2<-90 => C1(Weak Coverage)", "answer": "3", "needs_ai": false}
+{"id": "ID_J8FYWHE4BJ", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "8", "needs_ai": false}
+{"id": "ID_6Q7Z2N6V4M", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "8", "needs_ai": false}
+{"id": "ID_3EMDSPFY33", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing", "answer": "A", "needs_ai": true}
+{"id": "ID_MLN9KSOJ8Y", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "8", "needs_ai": false}
+{"id": "ID_Q1GWRS92KQ", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "4", "needs_ai": false}
+{"id": "ID_YGFHXLG85E", "type": "standard", "rule": "Rule 5: avg_rb=163.1<170 => C8(Low RB)", "answer": "E6", "needs_ai": false}
+{"id": "ID_RY6FYL2GLR", "type": "nonstandard_telecom", "rule": "Rule 3: max_cce=0.70>0.4 => PDCCH Congestion", "answer": "B", "needs_ai": false}
+{"id": "ID_11GA6Y35II", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "Q3", "needs_ai": false}
+{"id": "ID_3VQLW6VX88", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "2", "needs_ai": false}
+{"id": "ID_87TXVV5GHD", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "7", "needs_ai": false}
+{"id": "ID_8946WWU0GD", "type": "standard", "rule": "Rule 4: max_speed=71.0>40 => C7(High Speed)", "answer": "3", "needs_ai": false}
+{"id": "ID_4A0SQHJC7F", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "6", "needs_ai": false}
+{"id": "ID_KA67LOXG07", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "X1", "needs_ai": false}
+{"id": "ID_O0HP0Z9FRS", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "F8", "needs_ai": false}
+{"id": "ID_O6WFN2QH2K", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "2", "needs_ai": false}
+{"id": "ID_ASFSM6DOP0", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "W5", "needs_ai": false}
+{"id": "ID_M6EGAC2YMK", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "V3", "needs_ai": false}
+{"id": "ID_OYL39JRSN6", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "X1", "needs_ai": false}
+{"id": "ID_Z2B7KR10NB", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "5", "needs_ai": false}
+{"id": "ID_F1P3WATND0", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=12.0>8 Exclude Transport Anomaly", "answer": "A", "needs_ai": true}
+{"id": "ID_WKKD4ALWO1", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "C8", "needs_ai": false}
+{"id": "ID_N1HU49KBZ9", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "5", "needs_ai": false}
+{"id": "ID_6G2H7XTA3C", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "2", "needs_ai": false}
+{"id": "ID_MGRLGW5YM6", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "Z1", "needs_ai": false}
+{"id": "ID_PDV36CYSWV", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "1", "needs_ai": false}
+{"id": "ID_V0MNFI0E2T", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "S1", "needs_ai": false}
+{"id": "ID_HXUBJDK8IZ", "type": "standard", "rule": "Rule 5: avg_rb=147.8<170 => C8(Low RB)", "answer": "2", "needs_ai": false}
+{"id": "ID_TRT5BGP57H", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "4", "needs_ai": false}
+{"id": "ID_K8A66ESYBF", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "O7", "needs_ai": false}
+{"id": "ID_MLVB29WRRR", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "7", "needs_ai": false}
+{"id": "ID_WDFPHT7QY0", "type": "standard", "rule": "Rule 11: min_rsrp=-93.2<-90 => C1(Weak Coverage)", "answer": "B6", "needs_ai": false}
+{"id": "ID_UIVGRZL6QC", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "7", "needs_ai": false}
+{"id": "ID_7PYFABM86Q", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "6", "needs_ai": false}
+{"id": "ID_7R68UZEUQ3", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "8", "needs_ai": false}
+{"id": "ID_AGZYH02KRR", "type": "standard", "rule": "Rule 5: avg_rb=142.9<170 => C8(Low RB)", "answer": "Z4", "needs_ai": false}
+{"id": "ID_F7QOEC5D2Y", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=9.3>8 Exclude Transport Anomaly", "answer": "F", "needs_ai": true}
+{"id": "ID_J91BZU9Z99", "type": "standard", "rule": "Rule 4: max_speed=76.0>40 => C7(High Speed)", "answer": "5", "needs_ai": false}
+{"id": "ID_7EE2UHRFTQ", "type": "standard", "rule": "Rule 4: max_speed=75.0>40 => C7(High Speed)", "answer": "S8", "needs_ai": false}
+{"id": "ID_IKCI42IALP", "type": "standard", "rule": "Rule 7: max_tilt=11.0<12 => C3(Neighbor Better)", "answer": "O2", "needs_ai": false}
+{"id": "ID_DC5BME0P5N", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "8", "needs_ai": false}
+{"id": "ID_0SNGYI4T5F", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing", "answer": "F", "needs_ai": true}
+{"id": "ID_MB0ZWMJBGE", "type": "nonstandard_telecom", "rule": "Rule 2: handovers=3>=3 => Threshold Too Low", "answer": "H", "needs_ai": false}
+{"id": "ID_VV3MGHSHQK", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "8", "needs_ai": false}
+{"id": "ID_3JA6GS2RD9", "type": "standard", "rule": "Rule 11: min_rsrp=-91.1<-90 => C1(Weak Coverage)", "answer": "R4", "needs_ai": false}
+{"id": "ID_6S2PXJZO93", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "Z1", "needs_ai": false}
+{"id": "ID_VIE5NYG3TO", "type": "standard", "rule": "Rule 5: avg_rb=167.0<170 => C8(Low RB)", "answer": "V7", "needs_ai": false}
+{"id": "ID_BJW9QV2AUC", "type": "standard", "rule": "Rule 11: min_rsrp=-91.4<-90 => C1(Weak Coverage)", "answer": "5", "needs_ai": false}
+{"id": "ID_SW7GYUU89N", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "P5", "needs_ai": false}
+{"id": "ID_KAULQ3QTTK", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "2", "needs_ai": false}
+{"id": "ID_BT320TKWJF", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "O4", "needs_ai": false}
+{"id": "ID_MSI3DIC4CV", "type": "standard", "rule": "Rule 7: max_tilt=11.0<12 => C3(Neighbor Better)", "answer": "V5", "needs_ai": false}
+{"id": "ID_SO47W19SDF", "type": "standard", "rule": "Rule 7: max_tilt=11.0<12 => C3(Neighbor Better)", "answer": "R4", "needs_ai": false}
+{"id": "ID_8CQSBFUJH9", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "V5", "needs_ai": false}
+{"id": "ID_2EMEPBEGY3", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "6", "needs_ai": false}
+{"id": "ID_JY6TTN3OTI", "type": "standard", "rule": "Rule 4: max_speed=65.0>40 => C7(High Speed)", "answer": "U1", "needs_ai": false}
+{"id": "ID_QCEURIU67H", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "N2", "needs_ai": false}
+{"id": "ID_B4Y7IW06IG", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "P1", "needs_ai": false}
+{"id": "ID_IJHQCORNRC", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "6", "needs_ai": false}
+{"id": "ID_0KB0GN9UD0", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "Z1", "needs_ai": false}
+{"id": "ID_53CVXSB2RX", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "P7", "needs_ai": false}
+{"id": "ID_JKKFLXRJPY", "type": "standard", "rule": "Rule 12: max_tilt=47.0>29 => C1(Weak Coverage)", "answer": "4", "needs_ai": false}
+{"id": "ID_YIBJFABQZN", "type": "nonstandard_telecom", "rule": "Rule 3: max_cce=0.65>0.4 => PDCCH Congestion", "answer": "A", "needs_ai": false}
+{"id": "ID_6RRXV4MZV1", "type": "standard", "rule": "Rule 11: min_rsrp=-90.3<-90 => C1(Weak Coverage)", "answer": "5", "needs_ai": false}
+{"id": "ID_DFD7HQM70Z", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "2", "needs_ai": false}
+{"id": "ID_5YDEQYFA2L", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "4", "needs_ai": false}
+{"id": "ID_HGFQV6I174", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=13.1>12 Exclude Overlap, sinr=13.1>8 Exclude Transport Anomaly", "answer": "E", "needs_ai": true}
+{"id": "ID_JWG552Y001", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "4", "needs_ai": false}
+{"id": "ID_360OSKMMUR", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH", "answer": "B", "needs_ai": true}
+{"id": "ID_MUCQGEKB5G", "type": "standard", "rule": "Rule 4: max_speed=75.0>40 => C7(High Speed)", "answer": "C5", "needs_ai": false}
+{"id": "ID_EJL3OXKENW", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing", "answer": "E", "needs_ai": true}
+{"id": "ID_493CTFRMSE", "type": "standard", "rule": "Rule 8: total_tilt=18.0<19 => C3(Neighbor Better)", "answer": "2", "needs_ai": false}
+{"id": "ID_SX8J2Q0OAX", "type": "nonstandard_telecom", "rule": "Rule 3: max_cce=0.70>0.4 => PDCCH Congestion", "answer": "A", "needs_ai": false}
+{"id": "ID_23BEB4XSOM", "type": "standard", "rule": "Rule 4: max_speed=72.0>40 => C7(High Speed)", "answer": "R2", "needs_ai": false}
+{"id": "ID_F1VP6JUKKX", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "4", "needs_ai": false}
+{"id": "ID_5XUOSSRRE5", "type": "standard", "rule": "Rule 4: max_speed=78.0>40 => C7(High Speed)", "answer": "4", "needs_ai": false}
+{"id": "ID_CZV2TY3482", "type": "standard", "rule": "Rule 11: min_rsrp=-92.3<-90 => C1(Weak Coverage)", "answer": "7", "needs_ai": false}
+{"id": "ID_TUQSSZCSWZ", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "H4", "needs_ai": false}
+{"id": "ID_U5G02CIL5D", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "T3", "needs_ai": false}
+{"id": "ID_9M8EKQRITJ", "type": "standard", "rule": "Rule 4: max_speed=70.0>40 => C7(High Speed)", "answer": "R7", "needs_ai": false}
+{"id": "ID_65WHNPJC41", "type": "standard", "rule": "Rule 13: total_tilt=53.0>52 => C1(Weak Coverage)", "answer": "X2", "needs_ai": false}
+{"id": "ID_3ZY67E37JW", "type": "standard", "rule": "Rule 9: min_tilt=4.0<6 => C3(Neighbor Better)", "answer": "3", "needs_ai": false}
+{"id": "ID_4F91TYW66H", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing", "answer": "B", "needs_ai": true}
+{"id": "ID_02W83YG4H1", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "2", "needs_ai": false}
+{"id": "ID_WT5QK4WLI3", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "5", "needs_ai": false}
+{"id": "ID_BI5XGTG7YA", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "U1", "needs_ai": false}
+{"id": "ID_NO19W3LLVF", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "W4", "needs_ai": false}
+{"id": "ID_8V97HBCVXA", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=12.3>12 Exclude Overlap, sinr=12.3>8 Exclude Transport Anomaly", "answer": "H", "needs_ai": true}
+{"id": "ID_W1CHTB9SZQ", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "A1", "needs_ai": false}
+{"id": "ID_N8UB58YDKO", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "N6", "needs_ai": false}
+{"id": "ID_25WXBCZC5P", "type": "standard", "rule": "Rule 5: avg_rb=162.0<170 => C8(Low RB)", "answer": "O5", "needs_ai": false}
+{"id": "ID_YHJ5SHA1DW", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "W1", "needs_ai": false}
+{"id": "ID_1V11W6JD5O", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "3", "needs_ai": false}
+{"id": "ID_QB4YE1898O", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "S4", "needs_ai": false}
+{"id": "ID_87FI5BZQ2J", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "3", "needs_ai": false}
+{"id": "ID_JI36BONX3P", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "2", "needs_ai": false}
+{"id": "ID_4EVHO9THVT", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "L5", "needs_ai": false}
+{"id": "ID_W1Q6W4FVUW", "type": "standard", "rule": "Rule 4: max_speed=72.0>40 => C7(High Speed)", "answer": "1", "needs_ai": false}
+{"id": "ID_1YBWOQPVF4", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "4", "needs_ai": false}
+{"id": "ID_P0GAR4TMA0", "type": "standard", "rule": "Rule 4: max_speed=72.0>40 => C7(High Speed)", "answer": "T1", "needs_ai": false}
+{"id": "ID_N1MEY94CEK", "type": "standard", "rule": "Rule 12: max_tilt=35.0>29 => C1(Weak Coverage)", "answer": "C1", "needs_ai": false}
+{"id": "ID_CJXNHM19NC", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "S4", "needs_ai": false}
+{"id": "ID_W0XVW9OZ42", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "5", "needs_ai": false}
+{"id": "ID_JZGDFAEN08", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=12.5>12 Exclude Overlap, sinr=12.5>8 Exclude Transport Anomaly", "answer": "D", "needs_ai": true}
+{"id": "ID_I0YEFNJD8E", "type": "nonstandard_telecom", "rule": "Rule 2: handovers=3>=3 => Threshold Too Low", "answer": "C", "needs_ai": false}
+{"id": "ID_V5GN3C0FXI", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "1", "needs_ai": false}
+{"id": "ID_33Z9R1DK1Y", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "4", "needs_ai": false}
+{"id": "ID_K7BSNBLBJI", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=12.4>12 Exclude Overlap, sinr=12.4>8 Exclude Transport Anomaly", "answer": "E", "needs_ai": true}
+{"id": "ID_WGM71JMDQV", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "O2", "needs_ai": false}
+{"id": "ID_VXMM3XGPG7", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "1", "needs_ai": false}
+{"id": "ID_A3UZCCZGSI", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "L8", "needs_ai": false}
+{"id": "ID_0TINJT432G", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "T1", "needs_ai": false}
+{"id": "ID_T2G5JBG512", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "M2", "needs_ai": false}
+{"id": "ID_WHMRTKDYMM", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "8", "needs_ai": false}
+{"id": "ID_6EWO1TAZM4", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, sinr=8.9>8 Exclude Transport Anomaly", "answer": "G", "needs_ai": true}
+{"id": "ID_FCD690ZIRZ", "type": "standard", "rule": "Rule 4: max_speed=65.0>40 => C7(High Speed)", "answer": "O8", "needs_ai": false}
+{"id": "ID_JAD46QXD9Y", "type": "standard", "rule": "Rule 5: avg_rb=156.4<170 => C8(Low RB)", "answer": "Y5", "needs_ai": false}
+{"id": "ID_C3FWDIVNL7", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "4", "needs_ai": false}
+{"id": "ID_YHI6B1HCA3", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "1", "needs_ai": false}
+{"id": "ID_6848EVPKDJ", "type": "standard", "rule": "Rule 4: max_speed=77.0>40 => C7(High Speed)", "answer": "Y8", "needs_ai": false}
+{"id": "ID_QIN07SNUU0", "type": "standard", "rule": "Rule 5: avg_rb=149.5<170 => C8(Low RB)", "answer": "N2", "needs_ai": false}
+{"id": "ID_JOPV5NESVW", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "4", "needs_ai": false}
+{"id": "ID_DWZLLESZH4", "type": "standard", "rule": "Rule 5: avg_rb=153.1<170 => C8(Low RB)", "answer": "G7", "needs_ai": false}
+{"id": "ID_GR77VWLQXP", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "C6", "needs_ai": false}
+{"id": "ID_V4046CLT2M", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "H4", "needs_ai": false}
+{"id": "ID_C4677CRG7O", "type": "standard", "rule": "Rule 4: max_speed=74.0>40 => C7(High Speed)", "answer": "W3", "needs_ai": false}
+{"id": "ID_BQLC3IFKOY", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=8.3>8 Exclude Transport Anomaly", "answer": "H", "needs_ai": true}
+{"id": "ID_2BOPI81SK7", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "Q5", "needs_ai": false}
+{"id": "ID_G5C1FHS0QH", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "4", "needs_ai": false}
+{"id": "ID_2W3GDHRZO6", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "D3", "needs_ai": false}
+{"id": "ID_WVJ9BB977I", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "O7", "needs_ai": false}
+{"id": "ID_DJ8W4VOEA6", "type": "standard", "rule": "Rule 11: min_rsrp=-91.0<-90 => C1(Weak Coverage)", "answer": "5", "needs_ai": false}
+{"id": "ID_XU2BUSN35W", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "3", "needs_ai": false}
+{"id": "ID_WYTPDW9MMT", "type": "standard", "rule": "Rule 10: min_tilt=8.0<10 AND min_rsrp=-88.6>-89 => C3", "answer": "H5", "needs_ai": false}
+{"id": "ID_864J4MLR9W", "type": "standard", "rule": "Rule 11: min_rsrp=-92.4<-90 => C1(Weak Coverage)", "answer": "A6", "needs_ai": false}
+{"id": "ID_D6AMGWY01D", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "K3", "needs_ai": false}
+{"id": "ID_U1S35GGC89", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, sinr=8.3>8 Exclude Transport Anomaly", "answer": "B", "needs_ai": true}
+{"id": "ID_W2X2J4UQHT", "type": "standard", "rule": "Rule 5: avg_rb=153.1<170 => C8(Low RB)", "answer": "2", "needs_ai": false}
+{"id": "ID_VQ2QUTCMXZ", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "U1", "needs_ai": false}
+{"id": "ID_T17BZ49WTO", "type": "standard", "rule": "Rule 4: max_speed=70.0>40 => C7(High Speed)", "answer": "A3", "needs_ai": false}
+{"id": "ID_9PCSKBDBZ4", "type": "standard", "rule": "Rule 5: avg_rb=158.3<170 => C8(Low RB)", "answer": "8", "needs_ai": false}
+{"id": "ID_R98BDDP7LQ", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing", "answer": "H", "needs_ai": true}
+{"id": "ID_BJ4O19ZIQO", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "V4", "needs_ai": false}
+{"id": "ID_MT5FIIWMK4", "type": "standard", "rule": "Rule 10: min_tilt=7.0<10 AND min_rsrp=-87.0>-89 => C3", "answer": "C4", "needs_ai": false}
+{"id": "ID_QPHMOHCNR0", "type": "standard", "rule": "Rule 12: max_tilt=47.0>29 => C1(Weak Coverage)", "answer": "3", "needs_ai": false}
+{"id": "ID_GCTM7XHNEJ", "type": "standard", "rule": "Rule 5: avg_rb=162.8<170 => C8(Low RB)", "answer": "1", "needs_ai": false}
+{"id": "ID_YCHHIUO0JB", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "E6", "needs_ai": false}
+{"id": "ID_ATTMUIVEEP", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "P5", "needs_ai": false}
+{"id": "ID_M82UKTQG1F", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "U7", "needs_ai": false}
+{"id": "ID_BQ0TI8VHND", "type": "standard", "rule": "Rule 4: max_speed=75.0>40 => C7(High Speed)", "answer": "7", "needs_ai": false}
+{"id": "ID_3GSS1QRBET", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "3", "needs_ai": false}
+{"id": "ID_IYYXOFQRK0", "type": "standard", "rule": "Rule 4: max_speed=72.0>40 => C7(High Speed)", "answer": "X3", "needs_ai": false}
+{"id": "ID_19P3T95GLS", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "Z2", "needs_ai": false}
+{"id": "ID_PHZRXPN9SF", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "G8", "needs_ai": false}
+{"id": "ID_99CPJ0T0S9", "type": "standard", "rule": "Rule 4: max_speed=79.0>40 => C7(High Speed)", "answer": "Z5", "needs_ai": false}
+{"id": "ID_TW2GLRJ4HF", "type": "standard", "rule": "Rule 7: max_tilt=11.0<12 => C3(Neighbor Better)", "answer": "4", "needs_ai": false}
+{"id": "ID_LMW7D30SC4", "type": "nonstandard_telecom", "rule": "Rule 2: handovers=3>=3 => Threshold Too Low", "answer": "C", "needs_ai": false}
+{"id": "ID_VVZB9PN2DW", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "2", "needs_ai": false}
+{"id": "ID_4026J8AU6Z", "type": "standard", "rule": "Rule 11: min_rsrp=-90.8<-90 => C1(Weak Coverage)", "answer": "R4", "needs_ai": false}
+{"id": "ID_WTW27KLF1X", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "8", "needs_ai": false}
+{"id": "ID_5WCOLFUGLB", "type": "standard", "rule": "Rule 5: avg_rb=164.7<170 => C8(Low RB)", "answer": "7", "needs_ai": false}
+{"id": "ID_FP9EDCE65H", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "U3", "needs_ai": false}
+{"id": "ID_YLDG81E38M", "type": "standard", "rule": "Rule 4: max_speed=77.0>40 => C7(High Speed)", "answer": "1", "needs_ai": false}
+{"id": "ID_2ENNZKYL9L", "type": "standard", "rule": "Rule 15: C1/C3 Boundary (Lean C1)", "answer": "U1", "needs_ai": false}
+{"id": "ID_ZHD6ZIY6DV", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "C5", "needs_ai": false}
+{"id": "ID_IEDZN79NPK", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "R5", "needs_ai": false}
+{"id": "ID_WUHTVT9X0Y", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "Y4", "needs_ai": false}
+{"id": "ID_XEJOA7XFXY", "type": "standard", "rule": "Rule 7: max_tilt=8.0<12 => C3(Neighbor Better)", "answer": "J7", "needs_ai": false}
+{"id": "ID_15CRN3NN4K", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "H2", "needs_ai": false}
+{"id": "ID_A7XNNKMXZX", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=9.3>8 Exclude Transport Anomaly", "answer": "G", "needs_ai": true}
+{"id": "ID_HZME48Y5OS", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=12.4>12 Exclude Overlap, sinr=12.4>8 Exclude Transport Anomaly", "answer": "E", "needs_ai": true}
+{"id": "ID_PFURUCGD9V", "type": "standard", "rule": "Rule 5: avg_rb=162.8<170 => C8(Low RB)", "answer": "B8", "needs_ai": false}
+{"id": "ID_ZUGJY7J5GH", "type": "standard", "rule": "Rule 4: max_speed=77.0>40 => C7(High Speed)", "answer": "5", "needs_ai": false}
+{"id": "ID_PE1WX8Q7MY", "type": "standard", "rule": "Rule 5: avg_rb=166.4<170 => C8(Low RB)", "answer": "W3", "needs_ai": false}
+{"id": "ID_MLOUC9YTJW", "type": "standard", "rule": "Rule 11: min_rsrp=-90.8<-90 => C1(Weak Coverage)", "answer": "1", "needs_ai": false}
+{"id": "ID_HLTP2DI08M", "type": "standard", "rule": "Rule 4: max_speed=77.0>40 => C7(High Speed)", "answer": "O5", "needs_ai": false}
+{"id": "ID_L2IB59BTOK", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "P4", "needs_ai": false}
+{"id": "ID_0JWO6EOR1K", "type": "standard", "rule": "Rule 5: avg_rb=147.8<170 => C8(Low RB)", "answer": "N8", "needs_ai": false}
+{"id": "ID_QU7PLKYRBA", "type": "standard", "rule": "Rule 5: avg_rb=142.8<170 => C8(Low RB)", "answer": "6", "needs_ai": false}
+{"id": "ID_577VEG5N5L", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "U4", "needs_ai": false}
+{"id": "ID_B4NRX81239", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "Z7", "needs_ai": false}
+{"id": "ID_YZ3SN0HMCJ", "type": "standard", "rule": "Rule 4: max_speed=68.0>40 => C7(High Speed)", "answer": "5", "needs_ai": false}
+{"id": "ID_3CCX51LQAE", "type": "standard", "rule": "Rule 7: max_tilt=11.0<12 => C3(Neighbor Better)", "answer": "2", "needs_ai": false}
+{"id": "ID_VSCS6B14GR", "type": "standard", "rule": "Rule 7: max_tilt=11.0<12 => C3(Neighbor Better)", "answer": "5", "needs_ai": false}
+{"id": "ID_I3GKQRZPKF", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "B8", "needs_ai": false}
+{"id": "ID_Y3JD36EO5G", "type": "standard", "rule": "Rule 11: min_rsrp=-94.1<-90 => C1(Weak Coverage)", "answer": "6", "needs_ai": false}
+{"id": "ID_QQJZ1DYUAL", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "Z1", "needs_ai": false}
+{"id": "ID_XOZYND26I7", "type": "standard", "rule": "Rule 5: avg_rb=138.7<170 => C8(Low RB)", "answer": "E1", "needs_ai": false}
+{"id": "ID_E7BBBAW4L4", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "I2", "needs_ai": false}
+{"id": "ID_DIOWKS7ODF", "type": "standard", "rule": "Rule 4: max_speed=78.0>40 => C7(High Speed)", "answer": "K5", "needs_ai": false}
+{"id": "ID_PCV3OQITHE", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "L7", "needs_ai": false}
+{"id": "ID_QY1HH0SIWJ", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "S4", "needs_ai": false}
+{"id": "ID_K8FIDGVVTP", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "2", "needs_ai": false}
+{"id": "ID_C4VU6J7PN9", "type": "standard", "rule": "Rule 9: min_tilt=4.0<6 => C3(Neighbor Better)", "answer": "G6", "needs_ai": false}
+{"id": "ID_AF6FZKQW35", "type": "standard", "rule": "Rule 11: min_rsrp=-92.3<-90 => C1(Weak Coverage)", "answer": "E1", "needs_ai": false}
+{"id": "ID_P9Z2W6I9FE", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "8", "needs_ai": false}
+{"id": "ID_O6G3HNTLTK", "type": "standard", "rule": "Rule 4: max_speed=76.0>40 => C7(High Speed)", "answer": "8", "needs_ai": false}
+{"id": "ID_EK6R9WS9YF", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "1", "needs_ai": false}
+{"id": "ID_H093S5H7G8", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "R2", "needs_ai": false}
+{"id": "ID_1Z10Q797LQ", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "S4", "needs_ai": false}
+{"id": "ID_EOM7NEJHZ9", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "Z4", "needs_ai": false}
+{"id": "ID_30TCIAXQ51", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "1", "needs_ai": false}
+{"id": "ID_CR7AOE2X0U", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "N4", "needs_ai": false}
+{"id": "ID_MSW4CSJ5QE", "type": "standard", "rule": "Rule 5: avg_rb=163.4<170 => C8(Low RB)", "answer": "8", "needs_ai": false}
+{"id": "ID_Y9U02S6KLB", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "I5", "needs_ai": false}
+{"id": "ID_LPC1C5VF0Y", "type": "standard", "rule": "Rule 5: avg_rb=163.6<170 => C8(Low RB)", "answer": "D6", "needs_ai": false}
+{"id": "ID_B8BQ3X2IFV", "type": "standard", "rule": "Rule 5: avg_rb=149.8<170 => C8(Low RB)", "answer": "6", "needs_ai": false}
+{"id": "ID_ILXHTB38OZ", "type": "standard", "rule": "Rule 5: avg_rb=147.2<170 => C8(Low RB)", "answer": "2", "needs_ai": false}
+{"id": "ID_N0GKHH67IW", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=11.9>8 Exclude Transport Anomaly", "answer": "F", "needs_ai": true}
+{"id": "ID_0CE5ZK04FX", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "5", "needs_ai": false}
+{"id": "ID_XT52ORGHSD", "type": "standard", "rule": "Rule 5: avg_rb=163.5<170 => C8(Low RB)", "answer": "4", "needs_ai": false}
+{"id": "ID_QCYCKNERDX", "type": "standard", "rule": "Rule 4: max_speed=76.0>40 => C7(High Speed)", "answer": "6", "needs_ai": false}
+{"id": "ID_YC8T9VC05Z", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "1", "needs_ai": false}
+{"id": "ID_4BWFB93GT3", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "4", "needs_ai": false}
+{"id": "ID_FE49X6DCHI", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "X2", "needs_ai": false}
+{"id": "ID_N1B78FX0ON", "type": "standard", "rule": "Rule 4: max_speed=73.0>40 => C7(High Speed)", "answer": "Z1", "needs_ai": false}
+{"id": "ID_FGNP4CYNF6", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=12.4>12 Exclude Overlap, sinr=12.4>8 Exclude Transport Anomaly", "answer": "G", "needs_ai": true}
+{"id": "ID_7CTAC7KB71", "type": "standard", "rule": "Rule 4: max_speed=79.0>40 => C7(High Speed)", "answer": "6", "needs_ai": false}
+{"id": "ID_JK5798OUD2", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=10.0>8 Exclude Transport Anomaly", "answer": "D", "needs_ai": true}
+{"id": "ID_G0I4D3F46K", "type": "standard", "rule": "Rule 11: min_rsrp=-93.2<-90 => C1(Weak Coverage)", "answer": "S3", "needs_ai": false}
+{"id": "ID_PVQZJ3ALJR", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "V3", "needs_ai": false}
+{"id": "ID_BVLC76L2B9", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "J1", "needs_ai": false}
+{"id": "ID_QRS0YHTGYH", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "I5", "needs_ai": false}
+{"id": "ID_190A4I7T82", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "2", "needs_ai": false}
+{"id": "ID_QAOVSNKZH7", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "1", "needs_ai": false}
+{"id": "ID_MDT9JQSKO5", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "L1", "needs_ai": false}
+{"id": "ID_05367F959W", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "1", "needs_ai": false}
+{"id": "ID_P7MQ9LXNCT", "type": "standard", "rule": "Rule 4: max_speed=66.0>40 => C7(High Speed)", "answer": "6", "needs_ai": false}
+{"id": "ID_QMGUYRUT7X", "type": "standard", "rule": "Rule 11: min_rsrp=-93.6<-90 => C1(Weak Coverage)", "answer": "3", "needs_ai": false}
+{"id": "ID_0TFSX0MXEH", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "O4", "needs_ai": false}
+{"id": "ID_SZDIH8EQBL", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "8", "needs_ai": false}
+{"id": "ID_7PFGLU9DF7", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "6", "needs_ai": false}
+{"id": "ID_6KN0U4O766", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=9.4>8 Exclude Transport Anomaly", "answer": "H", "needs_ai": true}
+{"id": "ID_A3E4MDY73M", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "I2", "needs_ai": false}
+{"id": "ID_IVX3ZOKN9H", "type": "standard", "rule": "Rule 5: avg_rb=165.3<170 => C8(Low RB)", "answer": "B7", "needs_ai": false}
+{"id": "ID_YN5O1ROGNN", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "2", "needs_ai": false}
+{"id": "ID_HXQ5HCX7GV", "type": "standard", "rule": "Rule 5: avg_rb=168.1<170 => C8(Low RB)", "answer": "5", "needs_ai": false}
+{"id": "ID_VJLU39W8LH", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "6", "needs_ai": false}
+{"id": "ID_1ZTBO4HR39", "type": "standard", "rule": "Rule 4: max_speed=74.0>40 => C7(High Speed)", "answer": "5", "needs_ai": false}
+{"id": "ID_LTSWI21HNY", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "8", "needs_ai": false}
+{"id": "ID_7YJV90RLSI", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "Y2", "needs_ai": false}
+{"id": "ID_SJ5A7TYXFB", "type": "nonstandard_telecom", "rule": "Rule 1: min_rsrp=-109.4<-100 => Weak Coverage", "answer": "I", "needs_ai": false}
+{"id": "ID_O8224CT78L", "type": "standard", "rule": "Rule 4: max_speed=69.0>40 => C7(High Speed)", "answer": "3", "needs_ai": false}
+{"id": "ID_XIZRCRA177", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "O6", "needs_ai": false}
+{"id": "ID_EOS9VYTW06", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "5", "needs_ai": false}
+{"id": "ID_0T3Y4AHNX8", "type": "standard", "rule": "Rule 4: max_speed=78.0>40 => C7(High Speed)", "answer": "2", "needs_ai": false}
+{"id": "ID_A0GQEZ3QAJ", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "J6", "needs_ai": false}
+{"id": "ID_4YIADNCLU5", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "Z8", "needs_ai": false}
+{"id": "ID_15DEIVFGYY", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "2", "needs_ai": false}
+{"id": "ID_G5CT2D1AFT", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=12.6>12 Exclude Overlap, sinr=12.6>8 Exclude Transport Anomaly", "answer": "B", "needs_ai": true}
+{"id": "ID_UFV4JW13Q8", "type": "standard", "rule": "Rule 11: min_rsrp=-91.4<-90 => C1(Weak Coverage)", "answer": "3", "needs_ai": false}
+{"id": "ID_Z5OINPC71W", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "Q2", "needs_ai": false}
+{"id": "ID_3F9E7XPZZJ", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "5", "needs_ai": false}
+{"id": "ID_5VX2AKCMFP", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "D5", "needs_ai": false}
+{"id": "ID_HCTVTZ6KG7", "type": "standard", "rule": "Rule 11: min_rsrp=-92.8<-90 => C1(Weak Coverage)", "answer": "7", "needs_ai": false}
+{"id": "ID_5K7YJBIUFW", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "C4", "needs_ai": false}
+{"id": "ID_R74INR36VO", "type": "standard", "rule": "Rule 5: avg_rb=166.6<170 => C8(Low RB)", "answer": "4", "needs_ai": false}
+{"id": "ID_KLKFVB3H54", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "P5", "needs_ai": false}
+{"id": "ID_NFQ4OVXSAX", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "6", "needs_ai": false}
+{"id": "ID_Z6EVZHWNF9", "type": "standard", "rule": "Rule 5: avg_rb=151.8<170 => C8(Low RB)", "answer": "B5", "needs_ai": false}
+{"id": "ID_9DLDO3MF13", "type": "standard", "rule": "Rule 5: avg_rb=152.5<170 => C8(Low RB)", "answer": "8", "needs_ai": false}
+{"id": "ID_1LMK7UIJAV", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "6", "needs_ai": false}
+{"id": "ID_7BX3LQXE8M", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "6", "needs_ai": false}
+{"id": "ID_C2NJ9BDSMG", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "5", "needs_ai": false}
+{"id": "ID_YUR4J28NDU", "type": "standard", "rule": "Rule 7: max_tilt=11.0<12 => C3(Neighbor Better)", "answer": "7", "needs_ai": false}
+{"id": "ID_TF2TUOX2PJ", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "7", "needs_ai": false}
+{"id": "ID_TWACA2Z53B", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "8", "needs_ai": false}
+{"id": "ID_B6PFGXJDJJ", "type": "standard", "rule": "Rule 5: avg_rb=145.1<170 => C8(Low RB)", "answer": "4", "needs_ai": false}
+{"id": "ID_YX9F0STZD2", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "T4", "needs_ai": false}
+{"id": "ID_URJQWBWPKZ", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "I1", "needs_ai": false}
+{"id": "ID_MKTBTM4LT5", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "H4", "needs_ai": false}
+{"id": "ID_58Q48KRYX9", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=9.4>8 Exclude Transport Anomaly", "answer": "A", "needs_ai": true}
+{"id": "ID_5GZ1OTAXDB", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "8", "needs_ai": false}
+{"id": "ID_CCSGCWWMDO", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "F1", "needs_ai": false}
+{"id": "ID_2AD4OGB5PI", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "E2", "needs_ai": false}
+{"id": "ID_8WA5PTLXB6", "type": "nonstandard_telecom", "rule": "Rule 1: min_rsrp=-109.6<-100 => Weak Coverage", "answer": "F", "needs_ai": false}
+{"id": "ID_FYWOYFI5FH", "type": "standard", "rule": "Rule 5: avg_rb=161.3<170 => C8(Low RB)", "answer": "Z4", "needs_ai": false}
+{"id": "ID_6O36A8JVA1", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "R5", "needs_ai": false}
+{"id": "ID_VHWVD8ZGUQ", "type": "standard", "rule": "Rule 7: max_tilt=6.0<12 => C3(Neighbor Better)", "answer": "7", "needs_ai": false}
+{"id": "ID_DH0SYF1I4V", "type": "standard", "rule": "Rule 5: avg_rb=137.4<170 => C8(Low RB)", "answer": "5", "needs_ai": false}
+{"id": "ID_8J5GY002H7", "type": "standard", "rule": "Rule 5: avg_rb=137.4<170 => C8(Low RB)", "answer": "C5", "needs_ai": false}
+{"id": "ID_7T7A9VFJMX", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "5", "needs_ai": false}
+{"id": "ID_WM4I0QTG35", "type": "standard", "rule": "Rule 5: avg_rb=163.7<170 => C8(Low RB)", "answer": "F3", "needs_ai": false}
+{"id": "ID_7LHMPIQ1KT", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "M4", "needs_ai": false}
+{"id": "ID_UJAS6SOZRH", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "5", "needs_ai": false}
+{"id": "ID_E11WLTRE67", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "5", "needs_ai": false}
+{"id": "ID_S8MQV40LS5", "type": "standard", "rule": "Rule 11: min_rsrp=-92.7<-90 => C1(Weak Coverage)", "answer": "6", "needs_ai": false}
+{"id": "ID_SB7P01NOA7", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "F5", "needs_ai": false}
+{"id": "ID_G8TABTME69", "type": "nonstandard_telecom", "rule": "Rule 2: handovers=3>=3 => Threshold Too Low", "answer": "A", "needs_ai": false}
+{"id": "ID_AOZB17DXZK", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "M8", "needs_ai": false}
+{"id": "ID_UNL7497PTP", "type": "standard", "rule": "Rule 5: avg_rb=154.3<170 => C8(Low RB)", "answer": "T3", "needs_ai": false}
+{"id": "ID_BW9BMH3O9B", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "F6", "needs_ai": false}
+{"id": "ID_T0D9KKMDHJ", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "4", "needs_ai": false}
+{"id": "ID_D7IQP52HZU", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "8", "needs_ai": false}
+{"id": "ID_SOX2EUEIWK", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "Y2", "needs_ai": false}
+{"id": "ID_M1T8B5EN3V", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "5", "needs_ai": false}
+{"id": "ID_VJSKD0TII6", "type": "standard", "rule": "Rule 12: max_tilt=40.0>29 => C1(Weak Coverage)", "answer": "X6", "needs_ai": false}
+{"id": "ID_83CUN2GUTA", "type": "nonstandard_telecom", "rule": "Rule 3: max_cce=0.65>0.4 => PDCCH Congestion", "answer": "A", "needs_ai": false}
+{"id": "ID_5PQBLD8K00", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, sinr=8.8>8 Exclude Transport Anomaly", "answer": "G", "needs_ai": true}
+{"id": "ID_C9AZU8V8D9", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "Q6", "needs_ai": false}
+{"id": "ID_3H2PQECJXI", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "3", "needs_ai": false}
+{"id": "ID_WON86L277B", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "C3", "needs_ai": false}
+{"id": "ID_OBUSAORQSL", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "C7", "needs_ai": false}
+{"id": "ID_F4KELPEIW1", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "T4", "needs_ai": false}
+{"id": "ID_QA45AR3OGI", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=12.7>12 Exclude Overlap, sinr=12.7>8 Exclude Transport Anomaly", "answer": "A", "needs_ai": true}
+{"id": "ID_0LABL1KRED", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "1", "needs_ai": false}
+{"id": "ID_AWAWP1ENMO", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "T5", "needs_ai": false}
+{"id": "ID_6KJYRRLWOC", "type": "standard", "rule": "Rule 5: avg_rb=167.5<170 => C8(Low RB)", "answer": "S8", "needs_ai": false}
+{"id": "ID_IODS7I7FPK", "type": "standard", "rule": "Rule 4: max_speed=72.0>40 => C7(High Speed)", "answer": "R1", "needs_ai": false}
+{"id": "ID_4NQUVJ2OT0", "type": "standard", "rule": "Rule 4: max_speed=79.0>40 => C7(High Speed)", "answer": "V2", "needs_ai": false}
+{"id": "ID_PEOWS5L5ZW", "type": "standard", "rule": "Rule 11: min_rsrp=-93.4<-90 => C1(Weak Coverage)", "answer": "Y5", "needs_ai": false}
+{"id": "ID_TRY1IS357F", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "6", "needs_ai": false}
+{"id": "ID_X7B90WG2OI", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "Q7", "needs_ai": false}
+{"id": "ID_WKC2Q23QC5", "type": "standard", "rule": "Rule 5: avg_rb=158.4<170 => C8(Low RB)", "answer": "X6", "needs_ai": false}
+{"id": "ID_E2TY6OVFWC", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "6", "needs_ai": false}
+{"id": "ID_14IBU1MUEQ", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "7", "needs_ai": false}
+{"id": "ID_NOC97MV9LT", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "4", "needs_ai": false}
+{"id": "ID_5L3PO60PYB", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "1", "needs_ai": false}
+{"id": "ID_6XH9MWTSBN", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "W7", "needs_ai": false}
+{"id": "ID_KA9B7IA0Y1", "type": "standard", "rule": "Rule 7: max_tilt=11.0<12 => C3(Neighbor Better)", "answer": "5", "needs_ai": false}
+{"id": "ID_3U3PY6C7BJ", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "O1", "needs_ai": false}
+{"id": "ID_KVT3P4JDA7", "type": "standard", "rule": "Rule 4: max_speed=74.0>40 => C7(High Speed)", "answer": "6", "needs_ai": false}
+{"id": "ID_XG9H7TXLVJ", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "Z8", "needs_ai": false}
+{"id": "ID_USHC06N4WX", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "X4", "needs_ai": false}
+{"id": "ID_FM0FVJSPJ0", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "5", "needs_ai": false}
+{"id": "ID_AY1H68FL2J", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "X8", "needs_ai": false}
+{"id": "ID_1I3K43YP31", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "2", "needs_ai": false}
+{"id": "ID_A2H3ZW61K6", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "Z2", "needs_ai": false}
+{"id": "ID_J7B7JAKJ9S", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "O2", "needs_ai": false}
+{"id": "ID_0HWSSA5KH2", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "3", "needs_ai": false}
+{"id": "ID_XJET7JOWGX", "type": "nonstandard_telecom", "rule": "Rule 3: max_cce=0.62>0.4 => PDCCH Congestion", "answer": "H", "needs_ai": false}
+{"id": "ID_QM7KQBHFUV", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "7", "needs_ai": false}
+{"id": "ID_6LDE5FHW1X", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "7", "needs_ai": false}
+{"id": "ID_XFC9PYJB13", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing", "answer": "I", "needs_ai": true}
+{"id": "ID_S1YVINGLE9", "type": "standard", "rule": "Rule 5: avg_rb=154.0<170 => C8(Low RB)", "answer": "2", "needs_ai": false}
+{"id": "ID_8XW9TDQ97A", "type": "standard", "rule": "Rule 4: max_speed=66.0>40 => C7(High Speed)", "answer": "7", "needs_ai": false}
+{"id": "ID_DVSPO56S2U", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "A3", "needs_ai": false}
+{"id": "ID_I5DOARGYRA", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "5", "needs_ai": false}
+{"id": "ID_P999K3OEAU", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "8", "needs_ai": false}
+{"id": "ID_ZNMJZY068Z", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "Z6", "needs_ai": false}
+{"id": "ID_DF3HFFDLAI", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "Q7", "needs_ai": false}
+{"id": "ID_0TVXJ1NOPK", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "W5", "needs_ai": false}
+{"id": "ID_A0WWEQPZSJ", "type": "standard", "rule": "Rule 4: max_speed=65.0>40 => C7(High Speed)", "answer": "J8", "needs_ai": false}
+{"id": "ID_YBFFHBD8Y1", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "F3", "needs_ai": false}
+{"id": "ID_G0BQ8QDF5P", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, sinr=8.1>8 Exclude Transport Anomaly", "answer": "D", "needs_ai": true}
+{"id": "ID_UAGGLQFLTQ", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=11.7>8 Exclude Transport Anomaly", "answer": "G", "needs_ai": true}
+{"id": "ID_1KLZ38F17I", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "B6", "needs_ai": false}
+{"id": "ID_X78QA6E97D", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "8", "needs_ai": false}
+{"id": "ID_VEQPSHI8TY", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "6", "needs_ai": false}
+{"id": "ID_R40DGIYY1D", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "F4", "needs_ai": false}
+{"id": "ID_H5PGK7KFH4", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "N3", "needs_ai": false}
+{"id": "ID_AANY6JU78V", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=12.5>12 Exclude Overlap, sinr=12.5>8 Exclude Transport Anomaly", "answer": "F", "needs_ai": true}
+{"id": "ID_BQY06QPAL7", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "I1", "needs_ai": false}
+{"id": "ID_C4B4BFM24J", "type": "standard", "rule": "Rule 12: max_tilt=53.0>29 => C1(Weak Coverage)", "answer": "8", "needs_ai": false}
+{"id": "ID_18K4TKYCN9", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "V1", "needs_ai": false}
+{"id": "ID_CAD74E7T0A", "type": "standard", "rule": "Rule 5: avg_rb=151.5<170 => C8(Low RB)", "answer": "O4", "needs_ai": false}
+{"id": "ID_3ZVSVV45DN", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing", "answer": "G", "needs_ai": true}
+{"id": "ID_KBS0D3N0UT", "type": "standard", "rule": "Rule 5: avg_rb=144.2<170 => C8(Low RB)", "answer": "Y4", "needs_ai": false}
+{"id": "ID_JI33XS1BKU", "type": "standard", "rule": "Rule 5: avg_rb=139.0<170 => C8(Low RB)", "answer": "L4", "needs_ai": false}
+{"id": "ID_JHQS7F54YY", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "2", "needs_ai": false}
+{"id": "ID_YVK3CYF5N7", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "6", "needs_ai": false}
+{"id": "ID_BE7M11SLQ1", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "L3", "needs_ai": false}
+{"id": "ID_LOY8I85EL3", "type": "standard", "rule": "Rule 11: min_rsrp=-92.8<-90 => C1(Weak Coverage)", "answer": "D5", "needs_ai": false}
+{"id": "ID_230B9D55K1", "type": "standard", "rule": "Rule 15: C1/C3 Boundary (Lean C1)", "answer": "L5", "needs_ai": false}
+{"id": "ID_EYRBVGSH0F", "type": "standard", "rule": "Rule 5: avg_rb=144.4<170 => C8(Low RB)", "answer": "3", "needs_ai": false}
+{"id": "ID_9N39JI049J", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "S6", "needs_ai": false}
+{"id": "ID_VPVMIXA0BF", "type": "standard", "rule": "Rule 9: min_tilt=3.0<6 => C3(Neighbor Better)", "answer": "3", "needs_ai": false}
+{"id": "ID_NMZWMAEEL1", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "6", "needs_ai": false}
+{"id": "ID_0U945BIL64", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "2", "needs_ai": false}
+{"id": "ID_G18ANOEEFJ", "type": "standard", "rule": "Rule 4: max_speed=68.0>40 => C7(High Speed)", "answer": "1", "needs_ai": false}
+{"id": "ID_9Y4IPELCCY", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "L4", "needs_ai": false}
+{"id": "ID_1IFKLSZ2IE", "type": "standard", "rule": "Rule 11: min_rsrp=-92.7<-90 => C1(Weak Coverage)", "answer": "2", "needs_ai": false}
+{"id": "ID_0XETIV8Z3A", "type": "standard", "rule": "Rule 11: min_rsrp=-92.0<-90 => C1(Weak Coverage)", "answer": "C5", "needs_ai": false}
+{"id": "ID_97Y2MZMYFA", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "4", "needs_ai": false}
+{"id": "ID_LL4OY83XSO", "type": "standard", "rule": "Rule 4: max_speed=71.0>40 => C7(High Speed)", "answer": "T7", "needs_ai": false}
+{"id": "ID_PH3AYQBQ6C", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "E3", "needs_ai": false}
+{"id": "ID_MTFVC384LD", "type": "standard", "rule": "Rule 9: min_tilt=5.0<6 => C3(Neighbor Better)", "answer": "8", "needs_ai": false}
+{"id": "ID_JN566X8T17", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=12.7>12 Exclude Overlap, sinr=12.7>8 Exclude Transport Anomaly", "answer": "B", "needs_ai": true}
+{"id": "ID_ATYH603SL4", "type": "standard", "rule": "Rule 5: avg_rb=166.9<170 => C8(Low RB)", "answer": "1", "needs_ai": false}
+{"id": "ID_8EJB03GIO3", "type": "standard", "rule": "Rule 4: max_speed=74.0>40 => C7(High Speed)", "answer": "X6", "needs_ai": false}
+{"id": "ID_Z14NBM6N6L", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "7", "needs_ai": false}
+{"id": "ID_J6FQG0UAWL", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=12.4>12 Exclude Overlap, sinr=12.4>8 Exclude Transport Anomaly", "answer": "A", "needs_ai": true}
+{"id": "ID_K8GD5DA4E2", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "T8", "needs_ai": false}
+{"id": "ID_CWL5PMSD61", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "D8", "needs_ai": false}
+{"id": "ID_FK2WBS18RB", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "1", "needs_ai": false}
+{"id": "ID_9NMULFOCCM", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "4", "needs_ai": false}
+{"id": "ID_3NYG3198OY", "type": "standard", "rule": "Rule 9: min_tilt=4.0<6 => C3(Neighbor Better)", "answer": "6", "needs_ai": false}
+{"id": "ID_928TKKT5DT", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "N7", "needs_ai": false}
+{"id": "ID_56W1BWI1GR", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "F4", "needs_ai": false}
+{"id": "ID_TF2QY7QAOU", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "7", "needs_ai": false}
+{"id": "ID_ZT3I4J8J18", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "P7", "needs_ai": false}
+{"id": "ID_5PBR9YP750", "type": "standard", "rule": "Rule 5: avg_rb=142.6<170 => C8(Low RB)", "answer": "4", "needs_ai": false}
+{"id": "ID_IK23QYRRRM", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "U1", "needs_ai": false}
+{"id": "ID_9IWV9RADXZ", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=12.7>12 Exclude Overlap, sinr=12.7>8 Exclude Transport Anomaly", "answer": "C", "needs_ai": true}
+{"id": "ID_LA1YNV6UWL", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "2", "needs_ai": false}
+{"id": "ID_DMO097AU9J", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "4", "needs_ai": false}
+{"id": "ID_K4BMSFZSGW", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "O1", "needs_ai": false}
+{"id": "ID_MLXY5KQ6PZ", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "3", "needs_ai": false}
+{"id": "ID_6QKCDL5E1V", "type": "standard", "rule": "Rule 4: max_speed=61.0>40 => C7(High Speed)", "answer": "2", "needs_ai": false}
+{"id": "ID_P4X4KA271B", "type": "nonstandard_telecom", "rule": "Rule 2: handovers=3>=3 => Threshold Too Low", "answer": "D", "needs_ai": false}
+{"id": "ID_JZN3BO0XY3", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "U4", "needs_ai": false}
+{"id": "ID_EGUN8S9NMS", "type": "standard", "rule": "Rule 5: avg_rb=159.9<170 => C8(Low RB)", "answer": "8", "needs_ai": false}
+{"id": "ID_X9VIAPOU2F", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "4", "needs_ai": false}
+{"id": "ID_73DNFEPKPI", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "V6", "needs_ai": false}
+{"id": "ID_J25S515NYH", "type": "standard", "rule": "Rule 11: min_rsrp=-94.1<-90 => C1(Weak Coverage)", "answer": "4", "needs_ai": false}
+{"id": "ID_7YEWB4HTUH", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "6", "needs_ai": false}
+{"id": "ID_PBRBLUMPGW", "type": "standard", "rule": "Rule 4: max_speed=76.0>40 => C7(High Speed)", "answer": "M8", "needs_ai": false}
+{"id": "ID_XFPZKDGALH", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "5", "needs_ai": false}
+{"id": "ID_7O4LR7FDM3", "type": "standard", "rule": "Rule 4: max_speed=69.0>40 => C7(High Speed)", "answer": "3", "needs_ai": false}
+{"id": "ID_1V30UKZXLX", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=12.2>12 Exclude Overlap, sinr=12.2>8 Exclude Transport Anomaly", "answer": "C", "needs_ai": true}
+{"id": "ID_7R4L4L4H1Z", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=12.8>12 Exclude Overlap, sinr=12.8>8 Exclude Transport Anomaly", "answer": "D", "needs_ai": true}
+{"id": "ID_MQHMDV10ES", "type": "standard", "rule": "Rule 4: max_speed=77.0>40 => C7(High Speed)", "answer": "5", "needs_ai": false}
+{"id": "ID_OX0VNTZVFH", "type": "standard", "rule": "Rule 4: max_speed=79.0>40 => C7(High Speed)", "answer": "K2", "needs_ai": false}
+{"id": "ID_WIBXV96JMB", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "3", "needs_ai": false}
+{"id": "ID_UUC8V60VC1", "type": "standard", "rule": "Rule 4: max_speed=54.0>40 => C7(High Speed)", "answer": "D6", "needs_ai": false}
+{"id": "ID_OAR3M2PWRI", "type": "standard", "rule": "Rule 5: avg_rb=142.3<170 => C8(Low RB)", "answer": "I4", "needs_ai": false}
+{"id": "ID_UMEQK0MZ2A", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=12.2>12 Exclude Overlap, sinr=12.2>8 Exclude Transport Anomaly", "answer": "G", "needs_ai": true}
+{"id": "ID_2JQYOO94T3", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "D4", "needs_ai": false}
+{"id": "ID_K92HWMISR4", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "D3", "needs_ai": false}
+{"id": "ID_RYLTAO4IMT", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=8.9>8 Exclude Transport Anomaly", "answer": "E", "needs_ai": true}
+{"id": "ID_1ELUI9NBH1", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "T7", "needs_ai": false}
+{"id": "ID_QODD23WIDQ", "type": "standard", "rule": "Rule 15: C1/C3 Boundary (Lean C1)", "answer": "U3", "needs_ai": false}
+{"id": "ID_RU5HZGZAJB", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "7", "needs_ai": false}
+{"id": "ID_WF4ZVBG4JE", "type": "standard", "rule": "Rule 4: max_speed=73.0>40 => C7(High Speed)", "answer": "4", "needs_ai": false}
+{"id": "ID_D67V9OW6WB", "type": "standard", "rule": "Rule 4: max_speed=63.0>40 => C7(High Speed)", "answer": "W2", "needs_ai": false}
+{"id": "ID_6PPX09GPKW", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=8.3>8 Exclude Transport Anomaly", "answer": "H", "needs_ai": true}
+{"id": "ID_PCN0ZZHFFR", "type": "standard", "rule": "Rule 11: min_rsrp=-91.6<-90 => C1(Weak Coverage)", "answer": "2", "needs_ai": false}
+{"id": "ID_9MD3R7Z1JC", "type": "standard", "rule": "Rule 5: avg_rb=168.0<170 => C8(Low RB)", "answer": "M3", "needs_ai": false}
+{"id": "ID_6FKMDEW8IA", "type": "standard", "rule": "Rule 7: max_tilt=7.0<12 => C3(Neighbor Better)", "answer": "V2", "needs_ai": false}
+{"id": "ID_COB7FL2DP9", "type": "standard", "rule": "Rule 4: max_speed=78.0>40 => C7(High Speed)", "answer": "8", "needs_ai": false}
+{"id": "ID_F1R31NQMM6", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "6", "needs_ai": false}
+{"id": "ID_PNUNK2HVCX", "type": "standard", "rule": "Rule 5: avg_rb=154.3<170 => C8(Low RB)", "answer": "B2", "needs_ai": false}
+{"id": "ID_I8SU0GVOSM", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "R5", "needs_ai": false}
+{"id": "ID_5L9OO9C0D3", "type": "nonstandard_telecom", "rule": "Rule 1: min_rsrp=-109.0<-100 => Weak Coverage", "answer": "F", "needs_ai": false}
+{"id": "ID_NVPAMEB4O6", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=13.4>12 Exclude Overlap, sinr=13.4>8 Exclude Transport Anomaly", "answer": "H", "needs_ai": true}
+{"id": "ID_CTI6W6CU80", "type": "standard", "rule": "Rule 11: min_rsrp=-94.7<-90 => C1(Weak Coverage)", "answer": "S4", "needs_ai": false}
+{"id": "ID_H9OA1GMUNM", "type": "standard", "rule": "Rule 7: max_tilt=11.0<12 => C3(Neighbor Better)", "answer": "5", "needs_ai": false}
+{"id": "ID_5MKCYB1THT", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "D8", "needs_ai": false}
+{"id": "ID_7XIUN759LF", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "2", "needs_ai": false}
+{"id": "ID_00SKE7SPAY", "type": "standard", "rule": "Rule 4: max_speed=79.0>40 => C7(High Speed)", "answer": "6", "needs_ai": false}
+{"id": "ID_RL8W069ZGQ", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "Q6", "needs_ai": false}
+{"id": "ID_CH1BX4NV27", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, sinr=9.5>8 Exclude Transport Anomaly", "answer": "D", "needs_ai": true}
+{"id": "ID_3YEKYLTAL1", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "5", "needs_ai": false}
+{"id": "ID_M2LHP6DO9N", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "5", "needs_ai": false}
+{"id": "ID_BC0647ZEY9", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "P3", "needs_ai": false}
+{"id": "ID_9XYW8CV3RV", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "3", "needs_ai": false}
+{"id": "ID_18ZQDGTTQ4", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing", "answer": "C", "needs_ai": true}
+{"id": "ID_79XGFE8FIQ", "type": "standard", "rule": "Rule 4: max_speed=66.0>40 => C7(High Speed)", "answer": "5", "needs_ai": false}
+{"id": "ID_34HT09USX6", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "A1", "needs_ai": false}
+{"id": "ID_0635DMUNGQ", "type": "nonstandard_telecom", "rule": "Rule 2: handovers=3>=3 => Threshold Too Low", "answer": "D", "needs_ai": false}
+{"id": "ID_DG5B2MQNC1", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "K3", "needs_ai": false}
+{"id": "ID_4N0J90VEFT", "type": "nonstandard_telecom", "rule": "Rule 2: handovers=3>=3 => Threshold Too Low", "answer": "H", "needs_ai": false}
+{"id": "ID_2QQWIQNVS2", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "7", "needs_ai": false}
+{"id": "ID_OOLPWFHZ82", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=12.2>12 Exclude Overlap, sinr=12.2>8 Exclude Transport Anomaly", "answer": "A", "needs_ai": true}
+{"id": "ID_8UF6K85USX", "type": "standard", "rule": "Rule 11: min_rsrp=-93.9<-90 => C1(Weak Coverage)", "answer": "W3", "needs_ai": false}
+{"id": "ID_1KPQXZIM9H", "type": "standard", "rule": "Rule 4: max_speed=61.0>40 => C7(High Speed)", "answer": "3", "needs_ai": false}
+{"id": "ID_0ZXMUVTE8U", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "3", "needs_ai": false}
+{"id": "ID_JKSCGW1PSV", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "2", "needs_ai": false}
+{"id": "ID_0SYTWO7F2W", "type": "standard", "rule": "Rule 4: max_speed=72.0>40 => C7(High Speed)", "answer": "A6", "needs_ai": false}
+{"id": "ID_BBYIF7OUO8", "type": "standard", "rule": "Rule 7: max_tilt=11.0<12 => C3(Neighbor Better)", "answer": "7", "needs_ai": false}
+{"id": "ID_GCTKGQKMZH", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "X7", "needs_ai": false}
+{"id": "ID_007LAHZSD8", "type": "standard", "rule": "Rule 11: min_rsrp=-92.4<-90 => C1(Weak Coverage)", "answer": "Z4", "needs_ai": false}
+{"id": "ID_PB2FSUOOUR", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "K7", "needs_ai": false}
+{"id": "ID_WUAS5V5E8P", "type": "standard", "rule": "Rule 5: avg_rb=164.0<170 => C8(Low RB)", "answer": "L1", "needs_ai": false}
+{"id": "ID_WG82TQG6U7", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "5", "needs_ai": false}
+{"id": "ID_8OARB3D21Y", "type": "standard", "rule": "Rule 4: max_speed=62.0>40 => C7(High Speed)", "answer": "Y4", "needs_ai": false}
+{"id": "ID_X9CCJY8RLI", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "4", "needs_ai": false}
+{"id": "ID_XTNI4UBWYA", "type": "standard", "rule": "Rule 5: avg_rb=151.5<170 => C8(Low RB)", "answer": "1", "needs_ai": false}
+{"id": "ID_N4YP3GWCOU", "type": "standard", "rule": "Rule 4: max_speed=79.0>40 => C7(High Speed)", "answer": "N1", "needs_ai": false}
+{"id": "ID_CZAH759059", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing", "answer": "C", "needs_ai": true}
+{"id": "ID_DJG8FDQ3UY", "type": "standard", "rule": "Rule 15: C1/C3 Boundary (Lean C1)", "answer": "G1", "needs_ai": false}
+{"id": "ID_XVHS0AGHJU", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "M4", "needs_ai": false}
+{"id": "ID_UBI3PCPXX7", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "5", "needs_ai": false}
+{"id": "ID_FYLMTYS9KT", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "1", "needs_ai": false}
+{"id": "ID_M66ZWY2OLS", "type": "standard", "rule": "Rule 4: max_speed=68.0>40 => C7(High Speed)", "answer": "8", "needs_ai": false}
+{"id": "ID_JY9M8VREWP", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "V1", "needs_ai": false}
+{"id": "ID_3YEYHL7XZ2", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "A5", "needs_ai": false}
+{"id": "ID_MS4ZSN7KPV", "type": "standard", "rule": "Rule 11: min_rsrp=-90.0<-90 => C1(Weak Coverage)", "answer": "Z3", "needs_ai": false}
+{"id": "ID_ZLQM5PF8W2", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "8", "needs_ai": false}
+{"id": "ID_1GZEGBQCXJ", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "Z3", "needs_ai": false}
+{"id": "ID_0OZV9CKI3C", "type": "standard", "rule": "Rule 5: avg_rb=155.4<170 => C8(Low RB)", "answer": "K2", "needs_ai": false}
+{"id": "ID_I2XHVYWFA4", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "D6", "needs_ai": false}
+{"id": "ID_XP5PQB7VII", "type": "nonstandard_telecom", "rule": "Rule 2: handovers=3>=3 => Threshold Too Low", "answer": "F", "needs_ai": false}
+{"id": "ID_3INAI4GVB0", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "P7", "needs_ai": false}
+{"id": "ID_AOYS5I11WJ", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "6", "needs_ai": false}
+{"id": "ID_Y27W00URZO", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "I7", "needs_ai": false}
+{"id": "ID_RDWQAMKPML", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing", "answer": "C", "needs_ai": true}
+{"id": "ID_M9BDC7PZ55", "type": "standard", "rule": "Rule 12: max_tilt=35.0>29 => C1(Weak Coverage)", "answer": "Z3", "needs_ai": false}
+{"id": "ID_WX0ZKHNCEM", "type": "standard", "rule": "Rule 7: max_tilt=6.0<12 => C3(Neighbor Better)", "answer": "P6", "needs_ai": false}
+{"id": "ID_W7ATCFKBKQ", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "4", "needs_ai": false}
+{"id": "ID_HRBNHJXEJD", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "2", "needs_ai": false}
+{"id": "ID_UBNNBN9ZH7", "type": "nonstandard_telecom", "rule": "Rule 3: max_cce=0.65>0.4 => PDCCH Congestion", "answer": "H", "needs_ai": false}
+{"id": "ID_WXBLWCPPIU", "type": "standard", "rule": "Rule 5: avg_rb=166.3<170 => C8(Low RB)", "answer": "5", "needs_ai": false}
+{"id": "ID_BBY4RCVSL7", "type": "standard", "rule": "Rule 4: max_speed=77.0>40 => C7(High Speed)", "answer": "3", "needs_ai": false}
+{"id": "ID_JQ0USYPDON", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "5", "needs_ai": false}
+{"id": "ID_DUK40MGMES", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "8", "needs_ai": false}
+{"id": "ID_3K9419TCNV", "type": "standard", "rule": "Rule 7: max_tilt=6.0<12 => C3(Neighbor Better)", "answer": "1", "needs_ai": false}
+{"id": "ID_L8OF6YN23N", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "I3", "needs_ai": false}
+{"id": "ID_6CHE2Y6QFE", "type": "standard", "rule": "Rule 7: max_tilt=11.0<12 => C3(Neighbor Better)", "answer": "G3", "needs_ai": false}
+{"id": "ID_89LE6A29Y1", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "D1", "needs_ai": false}
+{"id": "ID_4B3QR8JWY9", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "4", "needs_ai": false}
+{"id": "ID_AE7HCMW4YG", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "2", "needs_ai": false}
+{"id": "ID_MGSAM8YHQ6", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "6", "needs_ai": false}
+{"id": "ID_CR9XX5HW0J", "type": "standard", "rule": "Rule 11: min_rsrp=-93.9<-90 => C1(Weak Coverage)", "answer": "3", "needs_ai": false}
+{"id": "ID_34AKLFXBWO", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "5", "needs_ai": false}
+{"id": "ID_LNMZ38F6LH", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "K4", "needs_ai": false}
+{"id": "ID_2H1MJC7RQD", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "V8", "needs_ai": false}
+{"id": "ID_T9UM0X0UWO", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "L3", "needs_ai": false}
+{"id": "ID_40V42HLSL2", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "O4", "needs_ai": false}
+{"id": "ID_52NTSY9CH8", "type": "standard", "rule": "Rule 5: avg_rb=139.5<170 => C8(Low RB)", "answer": "5", "needs_ai": false}
+{"id": "ID_YFCBY6WGJ2", "type": "standard", "rule": "Rule 5: avg_rb=167.6<170 => C8(Low RB)", "answer": "V1", "needs_ai": false}
+{"id": "ID_YUASHI7INA", "type": "standard", "rule": "Rule 5: avg_rb=161.7<170 => C8(Low RB)", "answer": "6", "needs_ai": false}
+{"id": "ID_FCGA7TUT2C", "type": "standard", "rule": "Rule 4: max_speed=78.0>40 => C7(High Speed)", "answer": "A4", "needs_ai": false}
+{"id": "ID_9HH5VAG29X", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "S3", "needs_ai": false}
+{"id": "ID_T57Y06VYJK", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "3", "needs_ai": false}
+{"id": "ID_05FOEUH8J6", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "H5", "needs_ai": false}
+{"id": "ID_BMVD1ECGJT", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "2", "needs_ai": false}
+{"id": "ID_50Z1R1Y808", "type": "standard", "rule": "Rule 16: C1/C3 Boundary (Lean C3)", "answer": "Q5", "needs_ai": false}
+{"id": "ID_5RF70A3DTT", "type": "standard", "rule": "Rule 5: avg_rb=151.5<170 => C8(Low RB)", "answer": "8", "needs_ai": false}
+{"id": "ID_0VCBC13NB4", "type": "standard", "rule": "Rule 5: avg_rb=152.5<170 => C8(Low RB)", "answer": "2", "needs_ai": false}
+{"id": "ID_I11HS26I9Z", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=12.7>12 Exclude Overlap, sinr=12.7>8 Exclude Transport Anomaly", "answer": "B", "needs_ai": true}
+{"id": "ID_BQ7BEK0U0C", "type": "standard", "rule": "Rule 5: avg_rb=168.0<170 => C8(Low RB)", "answer": "S2", "needs_ai": false}
+{"id": "ID_EXP4BT8362", "type": "standard", "rule": "Rule 11: min_rsrp=-91.8<-90 => C1(Weak Coverage)", "answer": "4", "needs_ai": false}
+{"id": "ID_FC3Q0EBM4M", "type": "standard", "rule": "Rule 4: max_speed=63.0>40 => C7(High Speed)", "answer": "S4", "needs_ai": false}
+{"id": "ID_FOIDDUBNC8", "type": "standard", "rule": "Rule 4: max_speed=74.0>40 => C7(High Speed)", "answer": "C6", "needs_ai": false}
+{"id": "ID_H9TN4XUSMC", "type": "standard", "rule": "Rule 11: min_rsrp=-92.8<-90 => C1(Weak Coverage)", "answer": "3", "needs_ai": false}
+{"id": "ID_WI7WGYNLXO", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "5", "needs_ai": false}
+{"id": "ID_PTQ4SKZY5D", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "I5", "needs_ai": false}
+{"id": "ID_OMJZOKALFL", "type": "standard", "rule": "Rule 5: avg_rb=153.4<170 => C8(Low RB)", "answer": "D6", "needs_ai": false}
+{"id": "ID_71YANM7OGK", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=13.4>12 Exclude Overlap, sinr=13.4>8 Exclude Transport Anomaly", "answer": "B", "needs_ai": true}
+{"id": "ID_GXCQSKYQWL", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "6", "needs_ai": false}
+{"id": "ID_YA7TLYPRBN", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "8", "needs_ai": false}
+{"id": "ID_CE6D7OE52O", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "S1", "needs_ai": false}
+{"id": "ID_CQ10R9195I", "type": "standard", "rule": "Rule 17: C1/C3 Boundary (Default C3)", "answer": "7", "needs_ai": false}
+{"id": "ID_GF7RRH3TQ1", "type": "standard", "rule": "Rule 5: avg_rb=154.0<170 => C8(Low RB)", "answer": "8", "needs_ai": false}
+{"id": "ID_96EAJ6H5JY", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "3", "needs_ai": false}
+{"id": "ID_00MXQK5XNF", "type": "standard", "rule": "Rule 2: handovers=3>=3 => C5(Frequent Handover)", "answer": "7", "needs_ai": false}
+{"id": "ID_HAYDIEQQCP", "type": "nonstandard_telecom", "rule": "Rule 1: min_rsrp=-108.0<-100 => Weak Coverage", "answer": "F", "needs_ai": false}
+{"id": "ID_3W6ZMLKXM6", "type": "standard", "rule": "Rule 1: num_neighbors=3>=3 => C4(Overlap Coverage)", "answer": "5", "needs_ai": false}
+{"id": "ID_4E9602G8FT", "type": "standard", "rule": "Rule 3: handovers=2==2 => C2(Overshooting)", "answer": "7", "needs_ai": false}
+{"id": "ID_LR55LP3TPS", "type": "standard", "rule": "Rule 5: avg_rb=152.5<170 => C8(Low RB)", "answer": "Q8", "needs_ai": false}
+{"id": "ID_BAK5KMGJMW", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=8.8>8 Exclude Transport Anomaly", "answer": "D", "needs_ai": true}
+{"id": "ID_DM5R9MJUIP", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "H7", "needs_ai": false}
+{"id": "ID_DG7FRMSFGG", "type": "standard", "rule": "Rule 6: PCI mod 30 conflict => C6", "answer": "N6", "needs_ai": false}
+{"id": "ID_9101M99NZH", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "4", "needs_ai": true}
+{"id": "ID_T0JVEAUAUL", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "3", "needs_ai": true}
+{"id": "ID_7Y7UB0WSRV", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "3", "needs_ai": true}
+{"id": "ID_F41VGWBC1M", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "3", "needs_ai": true}
+{"id": "ID_NKKHCQD42E", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "2", "needs_ai": true}
+{"id": "ID_HSYG7CTAF9", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "4", "needs_ai": true}
+{"id": "ID_UK5OBYW14N", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "4", "needs_ai": true}
+{"id": "ID_APHTU51NKF", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "1", "needs_ai": true}
+{"id": "ID_LQ1NC0X9EV", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "3", "needs_ai": true}
+{"id": "ID_22RM8VUQYR", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing", "answer": "A", "needs_ai": true}
+{"id": "ID_8PD8KP4C7X", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "3", "needs_ai": true}
+{"id": "ID_ESBTZT6NDA", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "3", "needs_ai": true}
+{"id": "ID_A982UKJRXP", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "4", "needs_ai": true}
+{"id": "ID_EWPJ0ICQ5K", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "4", "needs_ai": true}
+{"id": "ID_K4MQ2ADY5F", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "2", "needs_ai": true}
+{"id": "ID_59J0OKPGZ8", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "2", "needs_ai": true}
+{"id": "ID_JEWV5YMC2P", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "1", "needs_ai": true}
+{"id": "ID_UNDZWOBOKM", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "4", "needs_ai": true}
+{"id": "ID_YHTQ2W4Z77", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "3", "needs_ai": true}
+{"id": "ID_BTFBC72895", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "3", "needs_ai": true}
+{"id": "ID_QL8WVWZAIL", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=9.5>8 Exclude Transport Anomaly", "answer": "A", "needs_ai": true}
+{"id": "ID_OS1W4CI1Y1", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH", "answer": "A", "needs_ai": true}
+{"id": "ID_GS5HVH80LX", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "4", "needs_ai": true}
+{"id": "ID_AIM9X6ECCC", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "2", "needs_ai": true}
+{"id": "ID_4POTXVDAAL", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "3", "needs_ai": true}
+{"id": "ID_HWRIOUB2KS", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "1", "needs_ai": true}
+{"id": "ID_WURGWFHNJW", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "2", "needs_ai": true}
+{"id": "ID_9THPS87IYG", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "3", "needs_ai": true}
+{"id": "ID_536RRV4CPS", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "4", "needs_ai": true}
+{"id": "ID_BFCE8Q0NC8", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "1", "needs_ai": true}
+{"id": "ID_QMEJCKCV41", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "2", "needs_ai": true}
+{"id": "ID_4AI7CVVV8Q", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "4", "needs_ai": true}
+{"id": "ID_0AH1GP3AC3", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "2", "needs_ai": true}
+{"id": "ID_GSG9NIFC6J", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "2", "needs_ai": true}
+{"id": "ID_HUD956GTVM", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "1", "needs_ai": true}
+{"id": "ID_Q861DQIDV6", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "4", "needs_ai": true}
+{"id": "ID_WZO5VTSIU8", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "3", "needs_ai": true}
+{"id": "ID_XX3ELOVQS6", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "3", "needs_ai": true}
+{"id": "ID_QX6QVSBXGR", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "4", "needs_ai": true}
+{"id": "ID_B95M5YVWPJ", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "4", "needs_ai": true}
+{"id": "ID_N5RMZW8ZM5", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "4", "needs_ai": true}
+{"id": "ID_JIN1YWDICS", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "1", "needs_ai": true}
+{"id": "ID_KZB77WMF81", "type": "nonstandard_telecom", "rule": "Rule 1: min_rsrp=-109.0<-100 => Weak Coverage", "answer": "F", "needs_ai": false}
+{"id": "ID_RI7J43CWGY", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "1", "needs_ai": true}
+{"id": "ID_70ONLAYFSV", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "2", "needs_ai": true}
+{"id": "ID_ZKH8L96UWM", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "2", "needs_ai": true}
+{"id": "ID_GIEIAD0K30", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "4", "needs_ai": true}
+{"id": "ID_IZX12JDP5R", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "3", "needs_ai": true}
+{"id": "ID_QS6LESNZJ8", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "1", "needs_ai": true}
+{"id": "ID_AVWC84XRZ4", "type": "nonstandard_telecom", "rule": "Rule 1: min_rsrp=-109.2<-100 => Weak Coverage", "answer": "F", "needs_ai": false}
+{"id": "ID_XJ5DYAK85S", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=2>0 Exclude Neighbor Missing", "answer": "C", "needs_ai": true}
+{"id": "ID_84S1LZ41FP", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "2", "needs_ai": true}
+{"id": "ID_BYKSL8VKXQ", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "2", "needs_ai": true}
+{"id": "ID_MKP99ETXXA", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "3", "needs_ai": true}
+{"id": "ID_YFFRCY8PGM", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "3", "needs_ai": true}
+{"id": "ID_9QTNQDVMYX", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "3", "needs_ai": true}
+{"id": "ID_PZM114ESPI", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "4", "needs_ai": true}
+{"id": "ID_Y1XLI26M74", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "3", "needs_ai": true}
+{"id": "ID_8G0K6CPCXZ", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing", "answer": "D", "needs_ai": true}
+{"id": "ID_OXO9KF4ZLY", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=9.6>8 Exclude Transport Anomaly", "answer": "F", "needs_ai": true}
+{"id": "ID_LP29KFOFGN", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "2", "needs_ai": true}
+{"id": "ID_XPLM24Y73T", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "4", "needs_ai": true}
+{"id": "ID_GDP6RCEM06", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "2", "needs_ai": true}
+{"id": "ID_H7ANCJTIGR", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "1", "needs_ai": true}
+{"id": "ID_X56JB1BUX1", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "2", "needs_ai": true}
+{"id": "ID_F5FPB8DIQK", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "1", "needs_ai": true}
+{"id": "ID_X0MMD4T8V7", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "3", "needs_ai": true}
+{"id": "ID_P3TFVGNHTK", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "1", "needs_ai": true}
+{"id": "ID_7EX59XCHNJ", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "3", "needs_ai": true}
+{"id": "ID_JQCR5O77NG", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "2", "needs_ai": true}
+{"id": "ID_J7RJGNI0AH", "type": "nonstandard_telecom", "rule": "Rule 3: max_cce=0.70>0.4 => PDCCH Congestion", "answer": "E", "needs_ai": false}
+{"id": "ID_O80K9O7W1P", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "4", "needs_ai": true}
+{"id": "ID_ELFGV2NRP1", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "4", "needs_ai": true}
+{"id": "ID_2NSH5DTYPA", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "1", "needs_ai": true}
+{"id": "ID_5CZX3LD206", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "3", "needs_ai": true}
+{"id": "ID_U5FA03R7TW", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "1", "needs_ai": true}
+{"id": "ID_LPIYSU25HL", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "4", "needs_ai": true}
+{"id": "ID_7VMREH77ML", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "2", "needs_ai": true}
+{"id": "ID_87Z25UI1Q3", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "2", "needs_ai": true}
+{"id": "ID_O9NN5QIEDR", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "3", "needs_ai": true}
+{"id": "ID_SWHTH05130", "type": "nonstandard_telecom", "rule": "Rule 3: max_cce=0.69>0.4 => PDCCH Congestion", "answer": "B", "needs_ai": false}
+{"id": "ID_LIBIHEABUA", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "4", "needs_ai": true}
+{"id": "ID_EWLKX4Z6MS", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "2", "needs_ai": true}
+{"id": "ID_IHPC5PR5Z5", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "2", "needs_ai": true}
+{"id": "ID_60DYKPTY75", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=9.6>8 Exclude Transport Anomaly", "answer": "G", "needs_ai": true}
+{"id": "ID_XNS38UK4PB", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "4", "needs_ai": true}
+{"id": "ID_BTRV5S9ZZ9", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "2", "needs_ai": true}
+{"id": "ID_MSGZXE8WJ2", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "1", "needs_ai": true}
+{"id": "ID_7XA7A9UJGI", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "3", "needs_ai": true}
+{"id": "ID_J26EUXF17J", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "3", "needs_ai": true}
+{"id": "ID_A34VXCUAX9", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing", "answer": "G", "needs_ai": true}
+{"id": "ID_5J41PYKMO9", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "2", "needs_ai": true}
+{"id": "ID_HY8Y2TTN6M", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "2", "needs_ai": true}
+{"id": "ID_EWGKK32YWU", "type": "nonstandard_telecom", "rule": "Low Confidence: Exclude: Weak Coverage, Threshold Too Low, PDCCH, ho=1>0 Exclude Neighbor Missing, sinr=13.3>12 Exclude Overlap, sinr=13.3>8 Exclude Transport Anomaly", "answer": "C", "needs_ai": true}
+{"id": "ID_MSMYVLJJIZ", "type": "nonstandard_other", "rule": "Non-telecom question, needs AI", "answer": "3", "needs_ai": true}

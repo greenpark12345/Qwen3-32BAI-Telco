@@ -1,0 +1,20 @@
+# 5G Network Problem Diagnosis Solver Configuration
+# Please modify the following configuration according to your actual situation
+
+# API Configuration
+OPENROUTER_API_KEY = your api key here
+MODEL = qwen/qwen3-32b
+API_URL = https://openrouter.ai/api/v1/chat/completions
+
+# Concurrency Configuration
+MAX_WORKERS = 1
+
+# Output Directory
+OUTPUT_DIR = output
+
+# Data File Path (relative to working directory)
+TEST_FILE = phase_2_test.csv
+
+# Case Library (Optional, used for similar case matching, skipped if not exists)
+# TRAIN_FILE = train.csv
+# CASE_FILE = case_library.csv
